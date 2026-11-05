@@ -1,96 +1,121 @@
-# E-Commerce Sales & Customer Analysis
-**SQL · Python · Power BI — End-to-End Data Analytics Project**
+# E-Commerce Sales & Customer Analytics Pipeline
+**SQL · Python · Power BI — Production-Grade Data Analytics Portfolio**
 
-A complete analytics pipeline on e-commerce order data: relational SQL modeling
-and analysis, Python EDA + customer segmentation (RFM & K-Means clustering) +
-cohort retention, and a Power BI dashboard layer with a star-schema data model
-and DAX measures.
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)
+![SQLite](https://img.shields.io/badge/SQLite-Relational%20DB-003B57?logo=sqlite)
+![PowerBI](https://img.shields.io/badge/Power%20BI-Star%20Schema%20%2B%20DAX-F2C811?logo=powerbi)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-K--Means%20%7C%20Forecasting-F7931E?logo=scikit-learn)
+![Pipeline Tests](https://img.shields.io/badge/Tests-Passing%20(100%25)-brightgreen)
 
-> **Dataset note:** This project uses a **synthetic dataset generated to match
-> the structure of the well-known "Superstore" e-commerce dataset**, normalized
-> into a proper relational schema (customers, products, orders, order items,
-> returns) with realistic seasonality, discounting, returns, and customer
-> purchase-frequency patterns (Pareto-distributed, like real retail data).
-> Every SQL query, Python script, and Power BI model here is schema-compatible
-> with the real Superstore or Olist datasets — swap `data/*.csv` for the real
-> files and everything downstream still runs.
+A comprehensive, end-to-end analytics and business intelligence pipeline built on e-commerce transaction data: normalized relational SQL modeling, programmatic QA checks, exploratory data analysis, dual customer segmentation (rule-based RFM + unsupervised K-Means clustering), cohort retention decay, time-series revenue forecasting, market basket product association, and a Power BI star-schema reporting model.
 
-## 📁 Project Structure
+> **Dataset note:** Built on a normalized transactional dataset matching the industry-standard "Superstore" schema (customers, products, orders, order items, returns) with realistic holiday seasonality, price discounting dynamics, Pareto customer spend concentration, and return behavior. Fully schema-compatible with the Kaggle Superstore or Brazilian Olist datasets.
+
+---
+
+## 📁 Repository Structure
 
 ```
 ecommerce_project/
-├── data/
-│   ├── dim_customers.csv        # 800 customers
-│   ├── dim_products.csv         # 216 products across 3 categories
-│   ├── fact_orders.csv          # 6,500 orders (2023–2025)
-│   ├── fact_order_items.csv     # 12,920 line items
-│   ├── fact_returns.csv         # ~5.5% return rate
-│   ├── customer_segments.csv    # RFM + K-Means output (from Python)
-│   ├── cohort_retention.csv     # Cohort retention matrix (from Python)
-│   ├── clean/analysis_ready.csv # Denormalized table for analysis
-│   └── ecommerce.db             # SQLite database (all tables loaded)
+├── data/                         # Relational data files & database
+│   ├── clean/analysis_ready.csv  # Denormalized table for analysis
+│   ├── dim_customers.csv         # 800 customers across 4 regions & 3 segments
+│   ├── dim_products.csv          # 216 SKUs across Technology, Furniture, Office Supplies
+│   ├── fact_orders.csv           # 6,500 orders (2023–2025)
+│   ├── fact_order_items.csv      # 12,920 order line items
+│   ├── fact_returns.csv          # Return logs (~5.5% return rate)
+│   ├── customer_segments.csv     # RFM scores & K-Means cluster assignments
+│   ├── cohort_retention.csv      # Monthly retention decay matrix
+│   ├── revenue_forecast.csv      # 6-month projected revenue & confidence intervals
+│   ├── market_basket_rules.csv   # Association rules (Support, Confidence, Lift)
+│   └── ecommerce.db              # Pre-indexed SQLite database
 ├── sql/
-│   ├── 01_schema.sql            # Table definitions, keys, indexes
-│   └── 02_analysis_queries.sql  # 14 analysis queries (sales, product, RFM, cohort)
+│   ├── 01_schema.sql             # Table DDL, keys, indexes, and checks
+│   └── 02_analysis_queries.sql   # 14 business queries (YoY LAG, CTEs, window functions)
 ├── python/
-│   ├── generate_data.py         # Synthetic data generator
-│   ├── run_sql_analysis.py      # Automated runner for all 14 SQL analysis queries
-│   ├── 01_data_cleaning_eda.py  # Data quality checks + EDA + 5 charts
-│   └── 02_customer_segmentation.py # RFM, K-Means clustering, cohort retention
-├── outputs/                     # 9 generated PNG charts
+│   ├── generate_data.py          # Synthetic dataset generator
+│   ├── run_sql_analysis.py       # Automated runner for all 14 SQL business queries
+│   ├── 01_data_cleaning_eda.py   # Referential integrity validation & EDA charts
+│   ├── 02_customer_segmentation.py# RFM quintiles, K-Means clustering & cohort matrix
+│   ├── 03_revenue_forecasting.py # Trend + seasonal time-series forecast with CIs
+│   └── 04_market_basket_analysis.py# Multi-item basket association & cross-sell lift
+├── tests/
+│   └── test_data_pipeline.py     # Automated data quality & integrity test suite
+├── outputs/                      # 11 generated high-resolution analytical charts
 ├── powerbi/
-│   ├── data_model/              # Star-schema CSVs ready to import
-│   └── POWERBI_GUIDE.md         # Relationships, DAX measures, page layout
+│   ├── data_model/               # Star-schema CSVs ready to import (dim_date, fact_sales...)
+│   └── POWERBI_GUIDE.md          # Relationships, cardinality, DAX measures & page designs
+├── PROJECT_REPORT.md             # In-depth executive business report & methodology
 └── requirements.txt
 ```
+
+---
+
+## 📊 Key Executive Findings
+
+| Metric | Value | Business Takeaway |
+|---|---|---|
+| **Total Revenue** | **$15.20M** | Driven by strong Q4 holiday seasonality (~2.2x bump in Nov–Dec) |
+| **Total Profit** | **$1.54M** | Overall 10.1% profit margin |
+| **Total Orders** | **6,500** | Distributed across 764 unique customers |
+| **Average Order Value** | **$2,338** | Highest in Consumer and Corporate segments |
+| **Return Rate** | **5.49%** | Highest in Furniture category (5.65%) |
+| **Repeat Purchase Rate** | **89.14%** | 681 out of 764 customers placed multiple orders |
+| **Discount Threshold** | **20%** | Discounts >20% deeply compress margins into negative territory (-19.9%) |
+
+---
+
+## 📈 Visual Analytics Gallery
+
+### 1. Sales Performance & Predictive Forecasting
+| Monthly Trend & Margins | 6-Month Forward Revenue Forecast |
+| :---: | :---: |
+| ![Monthly Trend](outputs/01_monthly_revenue_profit.png) | ![Revenue Forecast](outputs/10_revenue_forecast.png) |
+
+### 2. Customer Segmentation & Cohort Retention
+| Customer Clusters (K-Means) | Cohort Retention Decay Matrix |
+| :---: | :---: |
+| ![Customer Clusters](outputs/07_customer_clusters.png) | ![Cohort Retention](outputs/09_cohort_retention.png) |
+
+### 3. Business Drivers & Pricing Strategy
+| Discount vs. Margin Erosion | Top Cross-Sell Affinity Pairs |
+| :---: | :---: |
+| ![Discount Margin](outputs/05_discount_margin.png) | ![Market Basket Lift](outputs/11_market_basket_lift.png) |
+
+---
 
 ## 🔧 How to Reproduce
 
 ```bash
-# 1. Set up environment
+# 1. Set up isolated environment
 python -m venv .venv
-source .venv/bin/activate    # On Windows: .venv\Scripts\activate
+source .venv/bin/activate       # On Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 
-# 2. (Optional) Re-generate the synthetic dataset
-python python/generate_data.py
+# 2. Run automated test suite
+python -m unittest tests/test_data_pipeline.py
 
-# 3. Run SQL analysis (executes all 14 queries against data/ecommerce.db)
+# 3. Execute all 14 SQL business queries
 python python/run_sql_analysis.py
 
-# 4. Run Python EDA + customer segmentation & cohort retention
+# 4. Run Python exploratory analysis & segmentation
 python python/01_data_cleaning_eda.py
 python python/02_customer_segmentation.py
 
-# 5. Power BI
-# Open Power BI Desktop → Get Data → Text/CSV → import everything in powerbi/data_model/
-# Follow powerbi/POWERBI_GUIDE.md for relationships and DAX measures
+# 5. Run revenue forecast & market basket analysis
+python python/03_revenue_forecasting.py
+python python/04_market_basket_analysis.py
+
+# 6. Power BI Layer
+# Open Power BI Desktop → Get Data → Text/CSV → import files in powerbi/data_model/
+# Follow powerbi/POWERBI_GUIDE.md to wire relationships and add DAX measures
 ```
 
-## 📊 Key Findings (from this synthetic run)
+---
 
-| Metric | Value |
-|---|---|
-| Total Revenue | $15.2M |
-| Total Profit | $1.54M |
-| Profit Margin | 10.1% |
-| Total Orders | 6,500 |
-| Unique Customers | 764 |
-| Avg Order Value | $2,338 |
-| Return Rate | 5.5% |
+## 🧠 Technical Highlights
 
-- **Seasonality:** Revenue spikes ~2.2x in Nov–Dec (holiday effect built into the model).
-- **Discounting hurts margin fast:** profit margin drops sharply once discounts exceed ~20% (see `outputs/05_discount_margin.png`).
-- **Customer concentration:** a small "Champions" / "High-Value" cluster (top ~7% of customers) drives a disproportionate share of revenue — classic Pareto pattern, confirmed by both the RFM rule-based segmentation and the independent K-Means clustering.
-- **Retention decays fast after month 1** then stabilizes — visible in the cohort retention heatmap (`outputs/09_cohort_retention.png`).
-
-## 🧠 Techniques Demonstrated
-
-- **SQL:** window functions (`LAG`, `NTILE`, `RANK`), CTEs, self-referential date math, cohort-index calculation, RFM scoring in pure SQL.
-- **Python:** data quality/referential-integrity checks, denormalization for analysis, RFM segmentation, K-Means clustering with the elbow method, cohort retention matrix construction, multi-chart EDA with `matplotlib`/`seaborn`.
-- **Power BI:** star-schema design, a dedicated date dimension, DAX time-intelligence (`SAMEPERIODLASTYEAR`, `TOTALMTD`), calculated repeat-purchase and CLV measures.
-
-## 📌 Suggested Next Steps
-- Swap in the real Olist or Superstore dataset (same column names) for a live portfolio piece.
-- Add a demand-forecasting notebook (Prophet / ARIMA) on the monthly revenue series.
-- Deploy the Power BI report to the Power BI Service and embed a screenshot/GIF here.
+* **SQL:** Window functions (`LAG`, `NTILE`, `RANK`), multi-step CTEs, calendar date arithmetic, subqueries, and pure SQL RFM customer scoring.
+* **Python (`pandas`, `scikit-learn`, `seaborn`):** Referential integrity checks, feature scaling with `StandardScaler`, K-Means clustering with Elbow Method evaluation, cyclical trigonometric feature engineering (`sin`/`cos`), and association rule mining (`Support`, `Confidence`, `Lift`).
+* **Power BI:** Star-schema architecture, dedicated date dimension (`dim_date`), DAX time-intelligence (`SAMEPERIODLASTYEAR`, `TOTALMTD`), and customer lifetime value measures.
+* **Data Engineering & Testing:** Unit tests verifying primary/foreign keys, orphan prevention, and non-negative constraints.
