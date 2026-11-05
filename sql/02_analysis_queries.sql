@@ -20,11 +20,13 @@ GROUP BY 1
 ORDER BY 1;
 
 -- 1.2 Year-over-year growth by month (uses window function LAG)
+-- Note: Filtered to complete calendar years (excludes partial 2026-01) for accurate YoY comparison
 WITH monthly AS (
     SELECT strftime('%Y', order_date) AS yr,
            strftime('%m', order_date) AS mo,
            SUM(oi.sales) AS revenue
     FROM fact_orders o JOIN fact_order_items oi ON oi.order_id = o.order_id
+    WHERE order_date < '2026-01-01'
     GROUP BY 1, 2
 )
 SELECT

@@ -1,765 +1,765 @@
-customer_id,recency,frequency,monetary,rfm_segment,cluster_name
-CUST-00001,387,10,49082.310000000005,At Risk,Dormant
-CUST-00002,422,1,132.42,Hibernating / Lost,Dormant
-CUST-00003,39,6,8306.07,Loyal Customers,Low-Value
-CUST-00004,28,7,26215.77,Champions,Low-Value
-CUST-00005,66,5,11923.54,Loyal Customers,Low-Value
-CUST-00006,390,2,7583.380000000001,Hibernating / Lost,Dormant
-CUST-00007,37,21,51824.49,Champions,Mid-Value
-CUST-00008,31,19,45071.08,Champions,Low-Value
-CUST-00009,954,2,3162.4999999999995,Hibernating / Lost,Dormant
-CUST-00011,22,42,87799.54000000001,Champions,Mid-Value
-CUST-00012,26,11,20186.99,Champions,Low-Value
-CUST-00013,518,2,2073.77,Hibernating / Lost,Dormant
-CUST-00014,17,13,33530.8,Champions,Low-Value
-CUST-00015,100,8,25551.83,Loyal Customers,Low-Value
-CUST-00016,20,7,10738.36,Champions,Low-Value
-CUST-00017,58,5,13656.23,Loyal Customers,Low-Value
-CUST-00018,233,7,21738.75,At Risk,Low-Value
-CUST-00019,420,1,894.5799999999999,Hibernating / Lost,Dormant
-CUST-00021,178,9,15491.919999999998,At Risk,Low-Value
-CUST-00022,800,1,690.84,Hibernating / Lost,Dormant
-CUST-00023,340,4,6750.070000000001,Hibernating / Lost,Dormant
-CUST-00024,198,5,411.61,Needs Attention,Low-Value
-CUST-00025,79,6,6327.5,Loyal Customers,Low-Value
-CUST-00026,81,21,44972.89,Loyal Customers,Mid-Value
-CUST-00027,66,3,15774.01,Needs Attention,Low-Value
-CUST-00028,17,3,1563.81,New / Promising,Low-Value
-CUST-00029,111,6,15343.75,Loyal Customers,Low-Value
-CUST-00030,41,5,14669.06,Loyal Customers,Low-Value
-CUST-00031,345,1,1428.32,Hibernating / Lost,Dormant
-CUST-00032,55,3,7019.32,New / Promising,Low-Value
-CUST-00033,285,1,73.91,Hibernating / Lost,Dormant
-CUST-00034,172,1,2414.52,Hibernating / Lost,Low-Value
-CUST-00035,370,2,2893.54,Hibernating / Lost,Dormant
-CUST-00036,23,3,2927.98,New / Promising,Low-Value
-CUST-00037,52,14,36578.18,Champions,Low-Value
-CUST-00038,554,2,7845.34,Hibernating / Lost,Dormant
-CUST-00039,403,2,2149.16,Hibernating / Lost,Dormant
-CUST-00040,57,2,6181.05,New / Promising,Low-Value
-CUST-00041,306,1,1737.84,Hibernating / Lost,Dormant
-CUST-00042,234,3,16768.72,Hibernating / Lost,Low-Value
-CUST-00043,329,3,9164.259999999998,Hibernating / Lost,Dormant
-CUST-00044,27,28,48473.85,Champions,Mid-Value
-CUST-00045,350,1,1280.16,Hibernating / Lost,Dormant
-CUST-00046,136,3,8052.77,Needs Attention,Low-Value
-CUST-00047,21,3,5278.68,New / Promising,Low-Value
-CUST-00048,23,97,227640.86,Champions,High-Value
-CUST-00049,166,6,20755.58,Needs Attention,Low-Value
-CUST-00050,23,6,20481.46,Loyal Customers,Low-Value
-CUST-00051,425,1,2020.73,Hibernating / Lost,Dormant
-CUST-00052,92,11,34857.37,Loyal Customers,Low-Value
-CUST-00053,326,4,4132.69,Hibernating / Lost,Dormant
-CUST-00054,34,16,46881.29,Champions,Low-Value
-CUST-00055,57,3,6987.52,New / Promising,Low-Value
-CUST-00056,417,1,5719.86,Hibernating / Lost,Dormant
-CUST-00057,350,1,473.12,Hibernating / Lost,Dormant
-CUST-00058,53,6,22832.34,Loyal Customers,Low-Value
-CUST-00059,200,5,8421.42,Needs Attention,Low-Value
-CUST-00060,207,3,8050.54,Hibernating / Lost,Low-Value
-CUST-00061,99,10,19612.58,Loyal Customers,Low-Value
-CUST-00062,107,3,1059.4,Needs Attention,Low-Value
-CUST-00063,190,8,31174.51,At Risk,Low-Value
-CUST-00064,190,3,3249.1,Hibernating / Lost,Low-Value
-CUST-00065,716,4,7744.96,Hibernating / Lost,Dormant
-CUST-00066,84,7,33678.61,Loyal Customers,Low-Value
-CUST-00067,663,1,9309.78,Hibernating / Lost,Dormant
-CUST-00068,358,2,3690.57,Hibernating / Lost,Dormant
-CUST-00069,76,10,19587.76,Loyal Customers,Low-Value
-CUST-00070,25,33,68606.55,Champions,Mid-Value
-CUST-00071,95,4,5618.85,Needs Attention,Low-Value
-CUST-00072,50,6,29401.05,Loyal Customers,Low-Value
-CUST-00073,28,9,18743.36,Champions,Low-Value
-CUST-00074,55,4,8317.79,New / Promising,Low-Value
-CUST-00075,554,1,3168.2,Hibernating / Lost,Dormant
-CUST-00076,317,2,5296.62,Hibernating / Lost,Dormant
-CUST-00077,328,6,14435.21,Needs Attention,Dormant
-CUST-00078,170,11,14890.2,At Risk,Low-Value
-CUST-00079,38,3,14430.09,New / Promising,Low-Value
-CUST-00080,49,2,5006.44,New / Promising,Low-Value
-CUST-00081,42,5,7563.15,Loyal Customers,Low-Value
-CUST-00082,221,9,12616.76,At Risk,Low-Value
-CUST-00084,96,2,6050.53,Needs Attention,Low-Value
-CUST-00085,22,5,15023.21,Loyal Customers,Low-Value
-CUST-00086,116,3,5209.469999999999,Needs Attention,Low-Value
-CUST-00087,201,7,25846.51,At Risk,Low-Value
-CUST-00088,588,3,7717.97,Hibernating / Lost,Dormant
-CUST-00089,137,1,496.4500000000001,Needs Attention,Low-Value
-CUST-00090,456,1,2899.89,Hibernating / Lost,Dormant
-CUST-00091,121,8,16381.29,Loyal Customers,Low-Value
-CUST-00092,28,14,35762.87,Champions,Low-Value
-CUST-00093,43,9,27974.09,Champions,Low-Value
-CUST-00094,360,4,5931.26,Hibernating / Lost,Dormant
-CUST-00095,297,8,21076.87,At Risk,Low-Value
-CUST-00096,213,3,8152.32,Hibernating / Lost,Low-Value
-CUST-00097,762,1,304.15000000000003,Hibernating / Lost,Dormant
-CUST-00098,88,17,30782.5,Loyal Customers,Low-Value
-CUST-00100,792,1,737.02,Hibernating / Lost,Dormant
-CUST-00101,411,2,480.89,Hibernating / Lost,Dormant
-CUST-00103,301,5,13293.6,Needs Attention,Dormant
-CUST-00104,47,6,4973.27,Loyal Customers,Low-Value
-CUST-00105,55,3,2685.13,New / Promising,Low-Value
-CUST-00106,50,15,32361.14,Champions,Low-Value
-CUST-00107,43,11,18147.89,Champions,Low-Value
-CUST-00108,206,2,8457.77,Hibernating / Lost,Low-Value
-CUST-00109,59,3,1821.56,New / Promising,Low-Value
-CUST-00110,123,6,12259.44,Loyal Customers,Low-Value
-CUST-00111,180,5,21540.1,Needs Attention,Low-Value
-CUST-00112,24,3,7627.120000000001,New / Promising,Low-Value
-CUST-00113,28,7,10179.57,Champions,Low-Value
-CUST-00114,363,5,15734.17,Needs Attention,Dormant
-CUST-00115,30,10,42590.55,Champions,Low-Value
-CUST-00116,78,4,3157.68,Needs Attention,Low-Value
-CUST-00117,348,2,1404.55,Hibernating / Lost,Dormant
-CUST-00118,45,28,83211.76,Champions,Mid-Value
-CUST-00119,50,5,4538.62,Loyal Customers,Low-Value
-CUST-00120,404,2,6221.110000000001,Hibernating / Lost,Dormant
-CUST-00121,28,19,34069.1,Champions,Low-Value
-CUST-00122,41,8,23005.730000000003,Champions,Low-Value
-CUST-00123,31,18,42844.99,Champions,Low-Value
-CUST-00124,108,12,15342.6,Loyal Customers,Low-Value
-CUST-00125,20,3,11220.95,New / Promising,Low-Value
-CUST-00127,779,2,8531.97,Hibernating / Lost,Dormant
-CUST-00128,368,6,6803.13,Needs Attention,Dormant
-CUST-00129,78,5,9968.43,Loyal Customers,Low-Value
-CUST-00130,20,4,4742.94,New / Promising,Low-Value
-CUST-00132,49,15,29145.85,Champions,Low-Value
-CUST-00133,19,43,109191.46,Champions,Mid-Value
-CUST-00134,62,7,29721.64,Champions,Low-Value
-CUST-00135,254,2,6419.360000000001,Hibernating / Lost,Low-Value
-CUST-00136,63,1,2261.13,Needs Attention,Low-Value
-CUST-00138,43,20,43194.22,Champions,Low-Value
-CUST-00139,44,2,6439.92,New / Promising,Low-Value
-CUST-00140,32,6,18138.45,Loyal Customers,Low-Value
-CUST-00141,579,4,16080.520000000002,Hibernating / Lost,Dormant
-CUST-00142,217,7,12399.11,At Risk,Low-Value
-CUST-00143,132,10,34398.76,Loyal Customers,Low-Value
-CUST-00144,336,11,29626.49,At Risk,Dormant
-CUST-00145,451,4,9735.77,Hibernating / Lost,Dormant
-CUST-00146,297,2,1884.86,Hibernating / Lost,Dormant
-CUST-00147,60,2,3076.78,New / Promising,Low-Value
-CUST-00148,58,18,43531.95,Champions,Low-Value
-CUST-00149,64,17,51785.87,Loyal Customers,Low-Value
-CUST-00150,61,4,10417.36,New / Promising,Low-Value
-CUST-00151,192,8,21791.4,At Risk,Low-Value
-CUST-00152,130,10,27257.68,Loyal Customers,Low-Value
-CUST-00153,809,1,76.12,Hibernating / Lost,Dormant
-CUST-00154,32,15,30896.47,Champions,Low-Value
-CUST-00155,411,2,2428.52,Hibernating / Lost,Dormant
-CUST-00156,239,6,9342.54,Needs Attention,Low-Value
-CUST-00157,370,4,6476.45,Hibernating / Lost,Dormant
-CUST-00158,37,3,4642.610000000001,New / Promising,Low-Value
-CUST-00160,76,7,21611.48,Loyal Customers,Low-Value
-CUST-00161,983,2,595.2,Hibernating / Lost,Dormant
-CUST-00162,389,6,22870.22,Needs Attention,Dormant
-CUST-00163,673,3,15319.75,Hibernating / Lost,Dormant
-CUST-00164,614,3,11361.53,Hibernating / Lost,Dormant
-CUST-00165,21,3,17004.55,New / Promising,Low-Value
-CUST-00166,62,2,10557.759999999998,New / Promising,Low-Value
-CUST-00167,60,11,25367.42,Champions,Low-Value
-CUST-00168,117,5,1789.9900000000002,Loyal Customers,Low-Value
-CUST-00169,18,5,12534.08,Loyal Customers,Low-Value
-CUST-00170,58,6,28056.78,Loyal Customers,Low-Value
-CUST-00171,109,9,17250.63,Loyal Customers,Low-Value
-CUST-00172,30,19,64863.96,Champions,Mid-Value
-CUST-00173,111,7,11000.46,Loyal Customers,Low-Value
-CUST-00174,898,1,21.94,Hibernating / Lost,Dormant
-CUST-00175,37,4,9871.92,New / Promising,Low-Value
-CUST-00176,346,4,3391.5200000000004,Hibernating / Lost,Dormant
-CUST-00177,76,5,10032.25,Loyal Customers,Low-Value
-CUST-00178,225,1,5813.76,Hibernating / Lost,Low-Value
-CUST-00179,244,4,8328.85,Hibernating / Lost,Low-Value
-CUST-00180,28,9,20726.03,Champions,Low-Value
-CUST-00181,487,1,2891.41,Hibernating / Lost,Dormant
-CUST-00182,305,7,32260.86,At Risk,Low-Value
-CUST-00183,768,1,1999.25,Hibernating / Lost,Dormant
-CUST-00184,254,1,1810.21,Hibernating / Lost,Low-Value
-CUST-00185,20,10,16492.06,Champions,Low-Value
-CUST-00186,23,9,14680.7,Champions,Low-Value
-CUST-00187,51,7,11420.26,Champions,Low-Value
-CUST-00188,22,6,12160.92,Loyal Customers,Low-Value
-CUST-00189,98,3,10824.94,Needs Attention,Low-Value
-CUST-00190,152,8,17379.5,At Risk,Low-Value
-CUST-00191,31,9,21770.82,Champions,Low-Value
-CUST-00192,231,11,17181.55,At Risk,Low-Value
-CUST-00193,220,3,3363.16,Hibernating / Lost,Low-Value
-CUST-00194,197,3,5772.15,Hibernating / Lost,Low-Value
-CUST-00195,28,6,9311.34,Loyal Customers,Low-Value
-CUST-00196,232,3,3468.32,Hibernating / Lost,Low-Value
-CUST-00197,36,10,19910.09,Champions,Low-Value
-CUST-00198,75,3,13501.29,Needs Attention,Low-Value
-CUST-00199,64,26,65640.12,Loyal Customers,Mid-Value
-CUST-00200,226,2,2499.98,Hibernating / Lost,Low-Value
-CUST-00201,109,3,8683.7,Needs Attention,Low-Value
-CUST-00202,787,1,4756.679999999999,Hibernating / Lost,Dormant
-CUST-00203,53,10,27774.71,Champions,Low-Value
-CUST-00204,67,7,7238.679999999999,Loyal Customers,Low-Value
-CUST-00205,232,5,6288.389999999999,Needs Attention,Low-Value
-CUST-00206,72,6,12673.0,Loyal Customers,Low-Value
-CUST-00207,20,4,11819.1,New / Promising,Low-Value
-CUST-00208,66,13,25669.55,Loyal Customers,Low-Value
-CUST-00209,149,2,6056.9,Hibernating / Lost,Low-Value
-CUST-00210,110,8,14831.21,Loyal Customers,Low-Value
-CUST-00211,191,2,8998.59,Hibernating / Lost,Low-Value
-CUST-00212,51,47,116254.17,Champions,Mid-Value
-CUST-00213,32,30,78016.93000000001,Champions,Mid-Value
-CUST-00214,94,3,2417.53,Needs Attention,Low-Value
-CUST-00215,33,7,13888.98,Champions,Low-Value
-CUST-00216,21,19,55793.17,Champions,Mid-Value
-CUST-00217,530,1,957.42,Hibernating / Lost,Dormant
-CUST-00218,285,3,8396.91,Hibernating / Lost,Dormant
-CUST-00219,18,16,66438.51,Champions,Mid-Value
-CUST-00220,427,2,1506.92,Hibernating / Lost,Dormant
-CUST-00221,41,8,21248.18,Champions,Low-Value
-CUST-00222,66,4,9830.3,Needs Attention,Low-Value
-CUST-00223,249,14,39949.15,At Risk,Low-Value
-CUST-00224,24,33,77052.63,Champions,Mid-Value
-CUST-00225,28,16,34213.44,Champions,Low-Value
-CUST-00226,65,5,12749.14,Loyal Customers,Low-Value
-CUST-00227,44,11,30087.93,Champions,Low-Value
-CUST-00228,145,10,15272.63,At Risk,Low-Value
-CUST-00229,414,2,1189.73,Hibernating / Lost,Dormant
-CUST-00230,52,13,42225.25,Champions,Low-Value
-CUST-00231,802,1,12310.99,Hibernating / Lost,Dormant
-CUST-00232,240,6,6585.86,Needs Attention,Low-Value
-CUST-00233,104,1,843.1,Needs Attention,Low-Value
-CUST-00234,42,5,14839.03,Loyal Customers,Low-Value
-CUST-00235,133,1,512.86,Needs Attention,Low-Value
-CUST-00236,390,6,8248.76,Needs Attention,Dormant
-CUST-00237,49,6,13969.73,Loyal Customers,Low-Value
-CUST-00238,69,10,29707.17,Loyal Customers,Low-Value
-CUST-00239,532,1,7234.360000000001,Hibernating / Lost,Dormant
-CUST-00240,234,3,2316.9700000000003,Hibernating / Lost,Low-Value
-CUST-00241,85,4,1576.58,Needs Attention,Low-Value
-CUST-00242,201,12,22560.33,At Risk,Low-Value
-CUST-00243,233,2,1267.58,Hibernating / Lost,Low-Value
-CUST-00244,105,7,13447.09,Loyal Customers,Low-Value
-CUST-00245,24,19,40157.26,Champions,Low-Value
-CUST-00246,366,2,2924.3900000000003,Hibernating / Lost,Dormant
-CUST-00247,480,4,6332.64,Hibernating / Lost,Dormant
-CUST-00248,77,2,369.77,Needs Attention,Low-Value
-CUST-00249,159,8,18141.9,At Risk,Low-Value
-CUST-00250,787,1,3291.66,Hibernating / Lost,Dormant
-CUST-00251,32,15,34701.73,Champions,Low-Value
-CUST-00252,623,4,10312.78,Hibernating / Lost,Dormant
-CUST-00253,26,24,59697.35,Champions,Mid-Value
-CUST-00254,82,11,32306.17,Loyal Customers,Low-Value
-CUST-00255,20,127,302814.02,Champions,High-Value
-CUST-00256,423,1,280.03,Hibernating / Lost,Dormant
-CUST-00257,515,7,19721.67,At Risk,Dormant
-CUST-00258,38,6,7601.71,Loyal Customers,Low-Value
-CUST-00259,429,3,4184.58,Hibernating / Lost,Dormant
-CUST-00260,66,3,2852.5,Needs Attention,Low-Value
-CUST-00261,239,12,12714.42,At Risk,Low-Value
-CUST-00262,24,50,137860.32,Champions,Mid-Value
-CUST-00263,104,7,23306.47,Loyal Customers,Low-Value
-CUST-00264,462,3,4143.61,Hibernating / Lost,Dormant
-CUST-00265,81,3,4633.39,Needs Attention,Low-Value
-CUST-00266,21,7,31477.41,Champions,Low-Value
-CUST-00268,367,1,6032.87,Hibernating / Lost,Dormant
-CUST-00269,115,1,225.41,Needs Attention,Low-Value
-CUST-00270,329,2,4052.78,Hibernating / Lost,Dormant
-CUST-00272,801,1,3387.4,Hibernating / Lost,Dormant
-CUST-00274,538,3,10383.53,Hibernating / Lost,Dormant
-CUST-00275,24,63,128180.15,Champions,Mid-Value
-CUST-00276,467,1,5202.1,Hibernating / Lost,Dormant
-CUST-00278,38,3,12852.18,New / Promising,Low-Value
-CUST-00279,518,2,10138.88,Hibernating / Lost,Dormant
-CUST-00280,33,18,20532.53,Champions,Low-Value
-CUST-00281,59,6,13873.97,Loyal Customers,Low-Value
-CUST-00282,196,2,5886.9,Hibernating / Lost,Low-Value
-CUST-00283,167,3,3951.7,Hibernating / Lost,Low-Value
-CUST-00284,70,13,18699.9,Loyal Customers,Low-Value
-CUST-00285,22,13,32511.98,Champions,Low-Value
-CUST-00286,76,4,9102.9,Needs Attention,Low-Value
-CUST-00287,225,4,10055.759999999998,Hibernating / Lost,Low-Value
-CUST-00288,27,2,7112.199999999999,New / Promising,Low-Value
-CUST-00289,25,67,156368.17,Champions,Mid-Value
-CUST-00290,54,5,12881.8,Loyal Customers,Low-Value
-CUST-00291,96,21,59355.04,Loyal Customers,Mid-Value
-CUST-00292,60,6,11903.96,Loyal Customers,Low-Value
-CUST-00293,70,2,139.35,Needs Attention,Low-Value
-CUST-00294,127,6,16860.21,Loyal Customers,Low-Value
-CUST-00295,29,1,33.06,New / Promising,Low-Value
-CUST-00296,69,3,5901.38,Needs Attention,Low-Value
-CUST-00297,44,4,16929.3,New / Promising,Low-Value
-CUST-00298,109,3,3084.97,Needs Attention,Low-Value
-CUST-00299,27,12,39478.08,Champions,Low-Value
-CUST-00300,47,3,7034.2,New / Promising,Low-Value
-CUST-00301,332,1,2999.64,Hibernating / Lost,Dormant
-CUST-00302,26,25,50240.9,Champions,Mid-Value
-CUST-00303,51,9,20557.12,Champions,Low-Value
-CUST-00304,70,18,36877.71,Loyal Customers,Low-Value
-CUST-00305,28,72,207618.14,Champions,High-Value
-CUST-00306,421,2,11488.08,Hibernating / Lost,Dormant
-CUST-00307,184,5,15959.16,Needs Attention,Low-Value
-CUST-00308,225,5,11794.4,Needs Attention,Low-Value
-CUST-00309,53,7,16414.31,Champions,Low-Value
-CUST-00310,121,5,4305.42,Loyal Customers,Low-Value
-CUST-00311,34,14,26767.62,Champions,Low-Value
-CUST-00312,386,3,1035.4,Hibernating / Lost,Dormant
-CUST-00313,511,2,3923.3,Hibernating / Lost,Dormant
-CUST-00314,246,3,10701.89,Hibernating / Lost,Low-Value
-CUST-00315,45,7,16655.41,Champions,Low-Value
-CUST-00316,27,11,23943.72,Champions,Low-Value
-CUST-00318,35,11,29241.92,Champions,Low-Value
-CUST-00319,50,2,11250.78,New / Promising,Low-Value
-CUST-00320,246,2,2851.25,Hibernating / Lost,Low-Value
-CUST-00321,42,15,22368.8,Champions,Low-Value
-CUST-00322,39,33,47708.21,Champions,Mid-Value
-CUST-00323,26,20,37612.85,Champions,Low-Value
-CUST-00324,525,9,6929.9,At Risk,Dormant
-CUST-00325,802,4,6264.639999999999,Hibernating / Lost,Dormant
-CUST-00326,56,2,7284.95,New / Promising,Low-Value
-CUST-00327,35,3,4571.14,New / Promising,Low-Value
-CUST-00328,68,3,3626.73,Needs Attention,Low-Value
-CUST-00329,325,1,139.78,Hibernating / Lost,Dormant
-CUST-00330,37,3,2463.7,New / Promising,Low-Value
-CUST-00331,452,3,1591.56,Hibernating / Lost,Dormant
-CUST-00332,110,6,10039.24,Loyal Customers,Low-Value
-CUST-00333,622,2,1719.48,Hibernating / Lost,Dormant
-CUST-00334,794,1,1808.98,Hibernating / Lost,Dormant
-CUST-00335,30,5,23535.9,Loyal Customers,Low-Value
-CUST-00336,337,1,6691.42,Hibernating / Lost,Dormant
-CUST-00337,215,12,27757.88,At Risk,Low-Value
-CUST-00338,31,4,10854.63,New / Promising,Low-Value
-CUST-00339,35,7,9070.48,Champions,Low-Value
-CUST-00340,304,4,9321.05,Hibernating / Lost,Dormant
-CUST-00341,28,15,27705.29,Champions,Low-Value
-CUST-00342,142,6,6948.450000000001,Loyal Customers,Low-Value
-CUST-00343,247,5,5219.88,Needs Attention,Low-Value
-CUST-00344,35,4,17199.63,New / Promising,Low-Value
-CUST-00345,139,2,1779.68,Needs Attention,Low-Value
-CUST-00346,23,14,24702.92,Champions,Low-Value
-CUST-00347,69,8,21660.66,Loyal Customers,Low-Value
-CUST-00348,5,6,4010.91,Loyal Customers,Low-Value
-CUST-00349,35,19,43958.990000000005,Champions,Low-Value
-CUST-00350,32,7,15146.18,Champions,Low-Value
-CUST-00351,306,10,22212.67,At Risk,Low-Value
-CUST-00352,31,11,14010.0,Champions,Low-Value
-CUST-00353,102,4,5676.09,Needs Attention,Low-Value
-CUST-00354,129,9,20113.87,Loyal Customers,Low-Value
-CUST-00355,149,5,20595.28,Needs Attention,Low-Value
-CUST-00356,112,9,12429.02,Loyal Customers,Low-Value
-CUST-00357,427,1,1376.18,Hibernating / Lost,Dormant
-CUST-00358,54,18,33977.18,Champions,Low-Value
-CUST-00359,71,13,23309.81,Loyal Customers,Low-Value
-CUST-00361,63,17,36908.9,Loyal Customers,Low-Value
-CUST-00362,281,3,1410.8300000000002,Hibernating / Lost,Dormant
-CUST-00363,91,3,4562.4400000000005,Needs Attention,Low-Value
-CUST-00364,60,6,12313.28,Loyal Customers,Low-Value
-CUST-00365,183,1,4852.38,Hibernating / Lost,Low-Value
-CUST-00366,78,10,11058.16,Loyal Customers,Low-Value
-CUST-00367,26,16,19967.51,Champions,Low-Value
-CUST-00368,328,2,320.48,Hibernating / Lost,Dormant
-CUST-00369,139,1,6225.43,Needs Attention,Low-Value
-CUST-00370,224,4,10045.91,Hibernating / Lost,Low-Value
-CUST-00371,360,4,5453.01,Hibernating / Lost,Dormant
-CUST-00372,22,58,118190.87,Champions,Mid-Value
-CUST-00373,42,9,12119.05,Champions,Low-Value
-CUST-00374,65,3,2842.25,Needs Attention,Low-Value
-CUST-00375,115,6,16724.29,Loyal Customers,Low-Value
-CUST-00376,248,5,5936.77,Needs Attention,Low-Value
-CUST-00377,112,4,22246.34,Needs Attention,Low-Value
-CUST-00378,66,2,3961.12,Needs Attention,Low-Value
-CUST-00379,197,10,40499.38,At Risk,Low-Value
-CUST-00380,33,4,22568.25,New / Promising,Low-Value
-CUST-00381,36,27,63374.61,Champions,Mid-Value
-CUST-00382,91,5,14055.76,Loyal Customers,Low-Value
-CUST-00383,489,6,13195.99,Needs Attention,Dormant
-CUST-00384,48,21,33789.96,Champions,Low-Value
-CUST-00385,50,2,5223.08,New / Promising,Low-Value
-CUST-00386,31,22,43055.27,Champions,Mid-Value
-CUST-00387,61,8,14164.07,Champions,Low-Value
-CUST-00389,255,1,3494.57,Hibernating / Lost,Low-Value
-CUST-00390,34,7,15338.73,Champions,Low-Value
-CUST-00391,521,2,1937.39,Hibernating / Lost,Dormant
-CUST-00392,60,7,17390.31,Champions,Low-Value
-CUST-00393,142,5,6269.1900000000005,Loyal Customers,Low-Value
-CUST-00394,21,4,8329.08,New / Promising,Low-Value
-CUST-00395,514,1,1964.14,Hibernating / Lost,Dormant
-CUST-00396,19,15,28395.32,Champions,Low-Value
-CUST-00397,29,34,112719.58,Champions,Mid-Value
-CUST-00398,27,24,53267.2,Champions,Mid-Value
-CUST-00399,9,5,4435.85,Loyal Customers,Low-Value
-CUST-00400,90,2,575.7700000000001,Needs Attention,Low-Value
-CUST-00401,163,7,12816.68,At Risk,Low-Value
-CUST-00402,639,2,6682.259999999999,Hibernating / Lost,Dormant
-CUST-00403,58,1,2229.69,New / Promising,Low-Value
-CUST-00404,68,4,6271.6900000000005,Needs Attention,Low-Value
-CUST-00405,60,7,10966.23,Champions,Low-Value
-CUST-00406,214,11,27520.82,At Risk,Low-Value
-CUST-00407,36,11,21098.66,Champions,Low-Value
-CUST-00408,27,7,17110.95,Champions,Low-Value
-CUST-00409,41,2,14832.21,New / Promising,Low-Value
-CUST-00410,23,88,230518.33,Champions,High-Value
-CUST-00411,16,5,13322.93,Loyal Customers,Low-Value
-CUST-00412,49,6,10897.61,Loyal Customers,Low-Value
-CUST-00413,58,4,4629.1900000000005,New / Promising,Low-Value
-CUST-00414,42,9,21618.8,Champions,Low-Value
-CUST-00415,22,7,12597.92,Champions,Low-Value
-CUST-00416,687,1,2174.85,Hibernating / Lost,Dormant
-CUST-00417,371,2,1437.13,Hibernating / Lost,Dormant
-CUST-00418,60,7,13401.9,Champions,Low-Value
-CUST-00419,119,10,43007.47,Loyal Customers,Low-Value
-CUST-00420,800,1,1700.6,Hibernating / Lost,Dormant
-CUST-00421,63,31,68495.32,Loyal Customers,Mid-Value
-CUST-00422,147,2,1145.12,Hibernating / Lost,Low-Value
-CUST-00423,750,2,1185.16,Hibernating / Lost,Dormant
-CUST-00424,39,25,52782.77,Champions,Mid-Value
-CUST-00425,411,5,20103.25,Needs Attention,Dormant
-CUST-00426,138,3,2921.01,Needs Attention,Low-Value
-CUST-00427,46,7,14988.13,Champions,Low-Value
-CUST-00428,162,2,8544.83,Hibernating / Lost,Low-Value
-CUST-00429,18,39,97888.55,Champions,Mid-Value
-CUST-00430,41,4,10342.15,New / Promising,Low-Value
-CUST-00431,83,11,14733.23,Loyal Customers,Low-Value
-CUST-00432,129,5,8892.109999999999,Loyal Customers,Low-Value
-CUST-00433,889,1,536.78,Hibernating / Lost,Dormant
-CUST-00434,694,3,4096.88,Hibernating / Lost,Dormant
-CUST-00435,193,6,18072.54,Needs Attention,Low-Value
-CUST-00436,214,4,17920.44,Needs Attention,Low-Value
-CUST-00437,197,11,15506.87,At Risk,Low-Value
-CUST-00438,203,5,17281.97,Needs Attention,Low-Value
-CUST-00439,24,24,56074.31,Champions,Mid-Value
-CUST-00440,325,2,7294.83,Hibernating / Lost,Dormant
-CUST-00441,53,13,21932.4,Champions,Low-Value
-CUST-00442,91,7,14785.79,Loyal Customers,Low-Value
-CUST-00443,144,10,20363.52,At Risk,Low-Value
-CUST-00444,37,18,58719.17,Champions,Mid-Value
-CUST-00445,69,8,21459.870000000003,Loyal Customers,Low-Value
-CUST-00446,22,4,16240.52,Loyal Customers,Low-Value
-CUST-00448,740,2,4612.91,Hibernating / Lost,Dormant
-CUST-00449,64,20,44338.670000000006,Loyal Customers,Low-Value
-CUST-00450,48,8,13845.8,Champions,Low-Value
-CUST-00451,31,13,31879.4,Champions,Low-Value
-CUST-00452,177,3,1927.31,Hibernating / Lost,Low-Value
-CUST-00453,85,1,3529.62,Needs Attention,Low-Value
-CUST-00455,115,6,7127.8,Loyal Customers,Low-Value
-CUST-00456,30,4,8000.370000000001,Loyal Customers,Low-Value
-CUST-00457,219,2,5939.63,Hibernating / Lost,Low-Value
-CUST-00458,394,5,21734.36,Needs Attention,Dormant
-CUST-00459,285,2,11892.48,Hibernating / Lost,Dormant
-CUST-00460,39,7,13880.99,Champions,Low-Value
-CUST-00461,44,8,17679.21,Champions,Low-Value
-CUST-00462,259,12,43287.44,At Risk,Low-Value
-CUST-00463,82,6,8395.59,Loyal Customers,Low-Value
-CUST-00464,198,3,1894.28,Hibernating / Lost,Low-Value
-CUST-00465,192,1,5790.54,Hibernating / Lost,Low-Value
-CUST-00466,54,3,4791.96,New / Promising,Low-Value
-CUST-00467,165,2,3136.73,Hibernating / Lost,Low-Value
-CUST-00468,184,3,5254.45,Hibernating / Lost,Low-Value
-CUST-00469,308,5,28938.83,Needs Attention,Dormant
-CUST-00470,117,3,2578.53,Needs Attention,Low-Value
-CUST-00471,89,7,7095.76,Loyal Customers,Low-Value
-CUST-00472,102,13,26217.97,Loyal Customers,Low-Value
-CUST-00473,335,11,19267.44,At Risk,Dormant
-CUST-00474,173,2,4069.33,Hibernating / Lost,Low-Value
-CUST-00475,63,6,29304.66,Loyal Customers,Low-Value
-CUST-00476,287,3,2930.3700000000003,Hibernating / Lost,Dormant
-CUST-00477,754,4,11275.67,Needs Attention,Dormant
-CUST-00478,19,47,128046.48,Champions,Mid-Value
-CUST-00480,55,3,3504.85,New / Promising,Low-Value
-CUST-00481,55,4,18451.13,Loyal Customers,Low-Value
-CUST-00482,90,6,8189.66,Loyal Customers,Low-Value
-CUST-00483,153,7,6920.26,At Risk,Low-Value
-CUST-00484,138,4,6937.81,Loyal Customers,Low-Value
-CUST-00485,83,5,18867.02,Loyal Customers,Low-Value
-CUST-00486,68,6,21252.97,Loyal Customers,Low-Value
-CUST-00487,330,4,13311.329999999998,Needs Attention,Dormant
-CUST-00488,444,1,3173.15,Hibernating / Lost,Dormant
-CUST-00489,283,5,9263.5,Needs Attention,Low-Value
-CUST-00490,65,3,9448.75,Needs Attention,Low-Value
-CUST-00491,91,6,23935.18,Loyal Customers,Low-Value
-CUST-00493,134,7,17824.86,Loyal Customers,Low-Value
-CUST-00494,105,4,11916.8,Loyal Customers,Low-Value
-CUST-00495,35,10,19512.22,Champions,Low-Value
-CUST-00496,610,1,507.48,Hibernating / Lost,Dormant
-CUST-00497,351,5,10605.79,Needs Attention,Dormant
-CUST-00499,113,8,18399.69,Loyal Customers,Low-Value
-CUST-00500,423,4,8434.06,Needs Attention,Dormant
-CUST-00501,302,2,7035.24,Hibernating / Lost,Dormant
-CUST-00502,51,17,50219.51,Champions,Low-Value
-CUST-00504,174,4,17562.21,Needs Attention,Low-Value
-CUST-00505,35,12,27409.42,Champions,Low-Value
-CUST-00506,30,11,30838.83,Champions,Low-Value
-CUST-00507,176,5,13965.26,Needs Attention,Low-Value
-CUST-00508,196,8,16296.27,At Risk,Low-Value
-CUST-00509,30,3,6228.04,New / Promising,Low-Value
-CUST-00510,57,14,44753.14,Champions,Low-Value
-CUST-00511,387,3,8118.700000000001,Hibernating / Lost,Dormant
-CUST-00512,22,13,31651.06,Champions,Low-Value
-CUST-00513,38,6,17258.12,Champions,Low-Value
-CUST-00514,27,10,24440.08,Champions,Low-Value
-CUST-00515,252,4,11107.92,Needs Attention,Low-Value
-CUST-00516,30,12,24318.39,Champions,Low-Value
-CUST-00517,54,4,8565.51,Loyal Customers,Low-Value
-CUST-00518,33,17,39816.24,Champions,Low-Value
-CUST-00519,206,2,753.24,Hibernating / Lost,Low-Value
-CUST-00520,536,1,325.5,Hibernating / Lost,Dormant
-CUST-00521,417,3,12380.55,Hibernating / Lost,Dormant
-CUST-00523,49,20,63642.61,Champions,Mid-Value
-CUST-00524,6,4,3356.66,Loyal Customers,Low-Value
-CUST-00525,26,34,63384.97,Champions,Mid-Value
-CUST-00526,430,4,7788.25,Needs Attention,Dormant
-CUST-00527,35,2,4592.61,New / Promising,Low-Value
-CUST-00528,25,10,22859.47,Champions,Low-Value
-CUST-00529,70,8,12212.79,Loyal Customers,Low-Value
-CUST-00530,18,4,17088.89,Loyal Customers,Low-Value
-CUST-00531,365,4,9948.09,Needs Attention,Dormant
-CUST-00532,137,6,35880.880000000005,Loyal Customers,Low-Value
-CUST-00533,607,3,10000.41,Hibernating / Lost,Dormant
-CUST-00534,19,95,224480.47,Champions,High-Value
-CUST-00535,63,32,97755.22,Loyal Customers,Mid-Value
-CUST-00536,369,1,909.83,Hibernating / Lost,Dormant
-CUST-00537,231,1,968.81,Hibernating / Lost,Low-Value
-CUST-00538,40,5,10306.46,Loyal Customers,Low-Value
-CUST-00539,925,1,600.91,Hibernating / Lost,Dormant
-CUST-00541,168,1,164.98,Hibernating / Lost,Low-Value
-CUST-00542,512,2,382.53,Hibernating / Lost,Dormant
-CUST-00543,22,18,48426.05,Champions,Low-Value
-CUST-00544,54,14,19073.02,Champions,Low-Value
-CUST-00545,24,9,20377.82,Champions,Low-Value
-CUST-00546,34,3,17722.58,New / Promising,Low-Value
-CUST-00547,332,4,5667.41,Needs Attention,Dormant
-CUST-00548,43,5,8242.02,Loyal Customers,Low-Value
-CUST-00549,22,51,109444.88,Champions,Mid-Value
-CUST-00550,137,1,6065.3,Needs Attention,Low-Value
-CUST-00551,44,17,49203.54,Champions,Low-Value
-CUST-00552,266,9,13972.42,At Risk,Low-Value
-CUST-00553,62,3,6377.490000000001,New / Promising,Low-Value
-CUST-00554,38,13,24763.29,Champions,Low-Value
-CUST-00555,267,4,11592.94,Needs Attention,Low-Value
-CUST-00556,21,11,42694.59,Champions,Low-Value
-CUST-00557,65,18,41313.02,Loyal Customers,Low-Value
-CUST-00558,1,7,32854.25,Champions,Low-Value
-CUST-00559,61,5,20649.48,Loyal Customers,Low-Value
-CUST-00560,349,5,6348.700000000001,Needs Attention,Dormant
-CUST-00561,66,18,43375.7,Loyal Customers,Low-Value
-CUST-00562,57,4,11659.31,Loyal Customers,Low-Value
-CUST-00563,91,8,22643.63,Loyal Customers,Low-Value
-CUST-00564,19,11,20291.63,Champions,Low-Value
-CUST-00565,36,7,12446.87,Champions,Low-Value
-CUST-00566,433,3,9245.86,Hibernating / Lost,Dormant
-CUST-00567,114,10,21593.67,Loyal Customers,Low-Value
-CUST-00568,34,18,35158.98,Champions,Low-Value
-CUST-00570,216,4,7226.0,Needs Attention,Low-Value
-CUST-00571,18,32,88062.05,Champions,Mid-Value
-CUST-00573,24,13,24901.07,Champions,Low-Value
-CUST-00574,56,4,7002.1,Loyal Customers,Low-Value
-CUST-00575,727,1,445.83,Hibernating / Lost,Dormant
-CUST-00576,52,12,27799.21,Champions,Low-Value
-CUST-00577,204,5,8888.22,Needs Attention,Low-Value
-CUST-00578,473,6,11891.28,At Risk,Dormant
-CUST-00579,223,3,3157.0600000000004,Hibernating / Lost,Low-Value
-CUST-00580,91,3,1591.0,Needs Attention,Low-Value
-CUST-00582,769,1,1532.32,Hibernating / Lost,Dormant
-CUST-00583,46,29,73903.31,Champions,Mid-Value
-CUST-00584,517,1,371.01,Hibernating / Lost,Dormant
-CUST-00585,92,9,26362.29,Loyal Customers,Low-Value
-CUST-00586,602,3,7052.779999999999,Hibernating / Lost,Dormant
-CUST-00587,23,8,11896.77,Champions,Low-Value
-CUST-00588,268,2,4323.55,Hibernating / Lost,Low-Value
-CUST-00589,50,36,86695.56,Champions,Mid-Value
-CUST-00590,52,5,8836.3,Loyal Customers,Low-Value
-CUST-00591,324,5,6026.65,Needs Attention,Dormant
-CUST-00592,57,3,16670.75,New / Promising,Low-Value
-CUST-00594,391,4,4572.4,Needs Attention,Dormant
-CUST-00595,472,1,3031.16,Hibernating / Lost,Dormant
-CUST-00596,62,10,44672.23,Champions,Low-Value
-CUST-00597,157,6,5795.31,At Risk,Low-Value
-CUST-00598,46,2,1075.18,New / Promising,Low-Value
-CUST-00599,65,7,14766.63,Loyal Customers,Low-Value
-CUST-00600,110,12,30605.21,Loyal Customers,Low-Value
-CUST-00601,192,3,1983.95,Hibernating / Lost,Low-Value
-CUST-00602,55,2,3112.48,New / Promising,Low-Value
-CUST-00603,43,5,8002.88,Loyal Customers,Low-Value
-CUST-00604,24,3,11435.76,New / Promising,Low-Value
-CUST-00605,62,8,16470.43,Champions,Low-Value
-CUST-00606,58,5,11770.17,Loyal Customers,Low-Value
-CUST-00607,23,22,52024.77,Champions,Mid-Value
-CUST-00608,115,10,25008.11,Loyal Customers,Low-Value
-CUST-00609,40,11,30642.0,Champions,Low-Value
-CUST-00610,460,7,19876.69,At Risk,Dormant
-CUST-00611,127,1,1106.59,Needs Attention,Low-Value
-CUST-00612,127,1,700.58,Needs Attention,Low-Value
-CUST-00613,396,2,5426.93,Hibernating / Lost,Dormant
-CUST-00614,728,3,10539.57,Hibernating / Lost,Dormant
-CUST-00615,42,4,15883.34,Loyal Customers,Low-Value
-CUST-00616,25,19,59975.07,Champions,Mid-Value
-CUST-00617,523,3,7977.69,Hibernating / Lost,Dormant
-CUST-00619,184,1,631.15,Hibernating / Lost,Low-Value
-CUST-00620,61,16,50389.56,Champions,Low-Value
-CUST-00621,189,2,351.8,Hibernating / Lost,Low-Value
-CUST-00622,550,3,8003.389999999999,Hibernating / Lost,Dormant
-CUST-00623,30,4,5888.299999999999,Loyal Customers,Low-Value
-CUST-00624,446,3,4992.28,Hibernating / Lost,Dormant
-CUST-00625,26,46,103939.09,Champions,Mid-Value
-CUST-00626,24,43,109171.5,Champions,Mid-Value
-CUST-00627,54,1,3947.55,New / Promising,Low-Value
-CUST-00628,50,21,38303.19,Champions,Low-Value
-CUST-00629,31,7,14796.24,Champions,Low-Value
-CUST-00630,40,21,51792.84,Champions,Mid-Value
-CUST-00631,215,4,2146.63,Needs Attention,Low-Value
-CUST-00632,144,5,18797.46,Needs Attention,Low-Value
-CUST-00633,33,3,1749.38,New / Promising,Low-Value
-CUST-00634,411,2,2664.48,Hibernating / Lost,Dormant
-CUST-00637,530,2,8605.279999999999,Hibernating / Lost,Dormant
-CUST-00638,52,11,18555.94,Champions,Low-Value
-CUST-00639,136,1,743.9300000000001,Needs Attention,Low-Value
-CUST-00640,67,4,4805.4,Loyal Customers,Low-Value
-CUST-00641,24,45,103718.06,Champions,Mid-Value
-CUST-00643,64,8,18014.96,Loyal Customers,Low-Value
-CUST-00644,593,1,256.35,Hibernating / Lost,Dormant
-CUST-00645,55,13,24765.26,Champions,Low-Value
-CUST-00646,459,2,3165.8,Hibernating / Lost,Dormant
-CUST-00647,29,7,20577.91,Champions,Low-Value
-CUST-00648,35,11,23395.4,Champions,Low-Value
-CUST-00649,69,23,61290.72,Loyal Customers,Mid-Value
-CUST-00650,110,11,30105.95,Loyal Customers,Low-Value
-CUST-00651,102,5,4259.95,Loyal Customers,Low-Value
-CUST-00652,29,6,1246.2800000000002,Champions,Low-Value
-CUST-00653,49,4,4526.23,Loyal Customers,Low-Value
-CUST-00654,50,7,19903.44,Champions,Low-Value
-CUST-00656,74,24,39532.17,Loyal Customers,Mid-Value
-CUST-00657,59,8,17203.28,Champions,Low-Value
-CUST-00658,82,7,18841.99,Loyal Customers,Low-Value
-CUST-00659,254,2,8112.19,Hibernating / Lost,Low-Value
-CUST-00660,440,4,13955.899999999998,Needs Attention,Dormant
-CUST-00661,390,4,5869.93,Needs Attention,Dormant
-CUST-00662,55,6,22106.85,Champions,Low-Value
-CUST-00663,170,3,9232.52,Hibernating / Lost,Low-Value
-CUST-00664,269,2,5896.400000000001,Hibernating / Lost,Low-Value
-CUST-00665,19,205,467873.83,Champions,High-Value
-CUST-00666,26,5,6779.88,Loyal Customers,Low-Value
-CUST-00667,20,32,89909.52,Champions,Mid-Value
-CUST-00668,557,1,266.6,Hibernating / Lost,Dormant
-CUST-00669,30,16,42055.49,Champions,Low-Value
-CUST-00670,28,15,44293.5,Champions,Low-Value
-CUST-00671,103,3,13246.12,Needs Attention,Low-Value
-CUST-00672,158,8,27733.35,At Risk,Low-Value
-CUST-00673,54,15,24738.18,Champions,Low-Value
-CUST-00674,768,1,6887.98,Hibernating / Lost,Dormant
-CUST-00675,69,3,7214.639999999999,Needs Attention,Low-Value
-CUST-00676,251,5,8921.539999999999,Needs Attention,Low-Value
-CUST-00677,73,5,7266.93,Loyal Customers,Low-Value
-CUST-00678,36,12,15695.05,Champions,Low-Value
-CUST-00679,292,10,21549.94,At Risk,Low-Value
-CUST-00680,185,4,4264.32,Needs Attention,Low-Value
-CUST-00681,142,11,22674.31,Loyal Customers,Low-Value
-CUST-00682,184,2,140.37,Hibernating / Lost,Low-Value
-CUST-00683,62,4,13699.78,Loyal Customers,Low-Value
-CUST-00685,48,4,5679.06,Loyal Customers,Low-Value
-CUST-00686,566,3,3439.55,Hibernating / Lost,Dormant
-CUST-00687,149,4,13847.34,Needs Attention,Low-Value
-CUST-00688,19,7,10761.66,Champions,Low-Value
-CUST-00689,29,6,16683.87,Champions,Low-Value
-CUST-00690,187,5,20186.07,Needs Attention,Low-Value
-CUST-00692,374,3,9565.62,Hibernating / Lost,Dormant
-CUST-00693,344,5,12724.19,Needs Attention,Dormant
-CUST-00694,164,1,70.72,Hibernating / Lost,Low-Value
-CUST-00695,298,7,6406.75,At Risk,Dormant
-CUST-00696,42,7,16313.07,Champions,Low-Value
-CUST-00697,240,5,19876.74,Needs Attention,Low-Value
-CUST-00698,72,3,4805.11,Needs Attention,Low-Value
-CUST-00699,49,3,15214.0,New / Promising,Low-Value
-CUST-00700,28,13,32831.23,Champions,Low-Value
-CUST-00701,41,3,3848.61,New / Promising,Low-Value
-CUST-00702,405,3,3422.07,Hibernating / Lost,Dormant
-CUST-00703,145,2,2756.9,Hibernating / Lost,Low-Value
-CUST-00704,411,5,16640.66,Needs Attention,Dormant
-CUST-00705,78,5,7201.4400000000005,Loyal Customers,Low-Value
-CUST-00706,195,6,14238.66,At Risk,Low-Value
-CUST-00707,26,6,14267.79,Champions,Low-Value
-CUST-00708,147,8,17320.18,At Risk,Low-Value
-CUST-00709,55,6,9770.1,Champions,Low-Value
-CUST-00710,21,12,25561.210000000003,Champions,Low-Value
-CUST-00711,25,14,32887.85,Champions,Low-Value
-CUST-00712,386,4,11219.9,Needs Attention,Dormant
-CUST-00713,28,23,34407.99,Champions,Low-Value
-CUST-00714,234,1,1085.16,Hibernating / Lost,Low-Value
-CUST-00715,302,1,3583.83,Hibernating / Lost,Dormant
-CUST-00716,40,2,3526.67,New / Promising,Low-Value
-CUST-00717,68,5,12024.78,Loyal Customers,Low-Value
-CUST-00718,49,20,36007.42,Champions,Low-Value
-CUST-00719,237,5,6286.35,Needs Attention,Low-Value
-CUST-00720,107,14,30728.13,Loyal Customers,Low-Value
-CUST-00721,65,2,6491.8,Needs Attention,Low-Value
-CUST-00722,146,20,42929.75,At Risk,Low-Value
-CUST-00723,44,7,9810.52,Champions,Low-Value
-CUST-00724,272,3,5583.98,Hibernating / Lost,Low-Value
-CUST-00725,415,3,2195.41,Hibernating / Lost,Dormant
-CUST-00726,355,2,2598.4700000000003,Hibernating / Lost,Dormant
-CUST-00727,128,4,7977.95,Loyal Customers,Low-Value
-CUST-00728,32,3,4219.26,New / Promising,Low-Value
-CUST-00729,177,5,4954.54,Needs Attention,Low-Value
-CUST-00730,38,10,12249.9,Champions,Low-Value
-CUST-00731,52,3,6930.67,New / Promising,Low-Value
-CUST-00732,218,4,3888.51,Needs Attention,Low-Value
-CUST-00733,55,6,8831.369999999999,Champions,Low-Value
-CUST-00734,237,4,3728.96,Needs Attention,Low-Value
-CUST-00735,214,5,10822.28,Needs Attention,Low-Value
-CUST-00736,443,2,4821.47,Hibernating / Lost,Dormant
-CUST-00737,26,5,20004.78,Loyal Customers,Low-Value
-CUST-00738,81,7,24420.58,Loyal Customers,Low-Value
-CUST-00739,82,2,14514.94,Needs Attention,Low-Value
-CUST-00740,40,5,10888.5,Loyal Customers,Low-Value
-CUST-00741,43,9,14194.19,Champions,Low-Value
-CUST-00742,394,1,210.59,Hibernating / Lost,Dormant
-CUST-00743,33,6,20685.72,Champions,Low-Value
-CUST-00744,26,5,18174.34,Loyal Customers,Low-Value
-CUST-00745,29,35,89153.04,Champions,Mid-Value
-CUST-00746,43,4,5041.31,Loyal Customers,Low-Value
-CUST-00747,178,12,25385.65,At Risk,Low-Value
-CUST-00748,72,6,12543.3,Loyal Customers,Low-Value
-CUST-00749,616,2,1998.69,Hibernating / Lost,Dormant
-CUST-00750,52,7,11548.82,Champions,Low-Value
-CUST-00751,45,23,50415.57,Champions,Mid-Value
-CUST-00752,28,9,18865.66,Champions,Low-Value
-CUST-00753,38,7,17001.19,Champions,Low-Value
-CUST-00754,42,19,51027.09,Champions,Mid-Value
-CUST-00755,56,2,3326.75,New / Promising,Low-Value
-CUST-00756,65,2,1702.74,Needs Attention,Low-Value
-CUST-00757,24,5,12689.67,Loyal Customers,Low-Value
-CUST-00758,24,8,23047.76,Champions,Low-Value
-CUST-00759,27,7,7484.54,Champions,Low-Value
-CUST-00760,56,15,37107.67,Champions,Low-Value
-CUST-00761,376,3,6270.87,Hibernating / Lost,Dormant
-CUST-00762,84,1,683.85,Needs Attention,Low-Value
-CUST-00763,148,8,23420.33,At Risk,Low-Value
-CUST-00764,161,3,5477.54,Hibernating / Lost,Low-Value
-CUST-00765,29,14,39914.8,Champions,Low-Value
-CUST-00766,82,6,20821.03,Loyal Customers,Low-Value
-CUST-00767,7,9,23310.97,Champions,Low-Value
-CUST-00768,396,1,220.1,Hibernating / Lost,Dormant
-CUST-00769,181,3,9968.87,Hibernating / Lost,Low-Value
-CUST-00770,187,3,10217.63,Hibernating / Lost,Low-Value
-CUST-00771,239,8,17838.17,At Risk,Low-Value
-CUST-00773,431,2,751.4300000000001,Hibernating / Lost,Dormant
-CUST-00774,107,12,23663.76,Loyal Customers,Low-Value
-CUST-00775,284,1,211.5,Hibernating / Lost,Dormant
-CUST-00776,760,1,317.19,Hibernating / Lost,Dormant
-CUST-00777,62,4,6819.08,Loyal Customers,Low-Value
-CUST-00778,68,6,15190.7,Loyal Customers,Low-Value
-CUST-00779,148,7,17366.91,At Risk,Low-Value
-CUST-00780,327,7,12489.66,At Risk,Dormant
-CUST-00781,483,2,2284.4500000000003,Hibernating / Lost,Dormant
-CUST-00782,404,4,5447.92,Needs Attention,Dormant
-CUST-00783,102,5,8069.71,Loyal Customers,Low-Value
-CUST-00784,21,2,7201.51,New / Promising,Low-Value
-CUST-00785,23,39,88306.45999999999,Champions,Mid-Value
-CUST-00786,197,1,2260.92,Hibernating / Lost,Low-Value
-CUST-00787,62,5,13325.55,Loyal Customers,Low-Value
-CUST-00788,286,1,1403.21,Hibernating / Lost,Dormant
-CUST-00789,587,4,13778.15,Needs Attention,Dormant
-CUST-00790,158,4,10995.18,Needs Attention,Low-Value
-CUST-00791,402,5,11535.8,Needs Attention,Dormant
-CUST-00792,18,67,158297.56,Champions,Mid-Value
-CUST-00793,20,3,3196.4700000000003,New / Promising,Low-Value
-CUST-00794,332,1,265.38,Hibernating / Lost,Dormant
-CUST-00795,48,11,33043.33,Champions,Low-Value
-CUST-00796,503,4,12516.000000000002,Needs Attention,Dormant
-CUST-00797,173,5,10487.64,Needs Attention,Low-Value
-CUST-00798,33,3,7734.6,New / Promising,Low-Value
-CUST-00799,30,3,8510.57,New / Promising,Low-Value
-CUST-00800,158,13,34365.11,At Risk,Low-Value
+customer_id,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,rfm_segment,cluster,cluster_name
+CUST-00001,387,10,49082.310000000005,1,4,5,145,At Risk,2,Dormant
+CUST-00002,422,1,132.42,1,1,1,111,Hibernating / Lost,2,Dormant
+CUST-00003,39,6,8306.07,4,3,2,432,Loyal Customers,0,Low-Value
+CUST-00004,28,7,26215.77,5,4,4,544,Champions,0,Low-Value
+CUST-00005,66,5,11923.54,3,3,3,333,Loyal Customers,0,Low-Value
+CUST-00006,390,2,7583.380000000001,1,1,2,112,Hibernating / Lost,2,Dormant
+CUST-00007,37,21,51824.49,4,5,5,455,Champions,1,Mid-Value
+CUST-00008,31,19,45071.08,5,5,5,555,Champions,0,Low-Value
+CUST-00009,954,2,3162.4999999999995,1,1,1,111,Hibernating / Lost,2,Dormant
+CUST-00011,22,42,87799.54000000001,5,5,5,555,Champions,1,Mid-Value
+CUST-00012,26,11,20186.99,5,4,4,544,Champions,0,Low-Value
+CUST-00013,518,2,2073.77,1,1,1,111,Hibernating / Lost,2,Dormant
+CUST-00014,17,13,33530.8,5,5,5,555,Champions,0,Low-Value
+CUST-00015,100,8,25551.83,3,4,4,344,Loyal Customers,0,Low-Value
+CUST-00016,20,7,10738.36,5,4,3,543,Champions,0,Low-Value
+CUST-00017,58,5,13656.23,4,3,3,433,Loyal Customers,0,Low-Value
+CUST-00018,233,7,21738.75,2,4,4,244,At Risk,0,Low-Value
+CUST-00019,420,1,894.5799999999999,1,1,1,111,Hibernating / Lost,2,Dormant
+CUST-00021,178,9,15491.919999999998,2,4,4,244,At Risk,0,Low-Value
+CUST-00022,800,1,690.84,1,1,1,111,Hibernating / Lost,2,Dormant
+CUST-00023,340,4,6750.070000000001,1,2,2,122,Hibernating / Lost,2,Dormant
+CUST-00024,198,5,411.61,2,3,1,231,Needs Attention,0,Low-Value
+CUST-00025,79,6,6327.5,3,3,2,332,Loyal Customers,0,Low-Value
+CUST-00026,81,21,44972.89,3,5,5,355,Loyal Customers,1,Mid-Value
+CUST-00027,66,3,15774.01,3,2,4,324,Needs Attention,0,Low-Value
+CUST-00028,17,3,1563.81,5,2,1,521,New / Promising,0,Low-Value
+CUST-00029,111,6,15343.75,3,3,4,334,Loyal Customers,0,Low-Value
+CUST-00030,41,5,14669.06,4,3,3,433,Loyal Customers,0,Low-Value
+CUST-00031,345,1,1428.32,1,1,1,111,Hibernating / Lost,2,Dormant
+CUST-00032,55,3,7019.32,4,2,2,422,New / Promising,0,Low-Value
+CUST-00033,285,1,73.91,2,1,1,211,Hibernating / Lost,2,Dormant
+CUST-00034,172,1,2414.52,2,1,1,211,Hibernating / Lost,0,Low-Value
+CUST-00035,370,2,2893.54,1,1,1,111,Hibernating / Lost,2,Dormant
+CUST-00036,23,3,2927.98,5,2,1,521,New / Promising,0,Low-Value
+CUST-00037,52,14,36578.18,4,5,5,455,Champions,0,Low-Value
+CUST-00038,554,2,7845.34,1,1,2,112,Hibernating / Lost,2,Dormant
+CUST-00039,403,2,2149.16,1,1,1,111,Hibernating / Lost,2,Dormant
+CUST-00040,57,2,6181.05,4,1,2,412,New / Promising,0,Low-Value
+CUST-00041,306,1,1737.84,2,1,1,211,Hibernating / Lost,2,Dormant
+CUST-00042,234,3,16768.72,2,2,4,224,Hibernating / Lost,0,Low-Value
+CUST-00043,329,3,9164.259999999998,1,2,3,123,Hibernating / Lost,2,Dormant
+CUST-00044,27,28,48473.85,5,5,5,555,Champions,1,Mid-Value
+CUST-00045,350,1,1280.16,1,1,1,111,Hibernating / Lost,2,Dormant
+CUST-00046,136,3,8052.77,3,2,2,322,Needs Attention,0,Low-Value
+CUST-00047,21,3,5278.68,5,2,2,522,New / Promising,0,Low-Value
+CUST-00048,23,97,227640.86,5,5,5,555,Champions,3,High-Value
+CUST-00049,166,6,20755.58,2,3,4,234,Needs Attention,0,Low-Value
+CUST-00050,23,6,20481.46,5,3,4,534,Loyal Customers,0,Low-Value
+CUST-00051,425,1,2020.73,1,1,1,111,Hibernating / Lost,2,Dormant
+CUST-00052,92,11,34857.37,3,4,5,345,Loyal Customers,0,Low-Value
+CUST-00053,326,4,4132.69,2,2,2,222,Hibernating / Lost,2,Dormant
+CUST-00054,34,16,46881.29,5,5,5,555,Champions,0,Low-Value
+CUST-00055,57,3,6987.52,4,2,2,422,New / Promising,0,Low-Value
+CUST-00056,417,1,5719.86,1,1,2,112,Hibernating / Lost,2,Dormant
+CUST-00057,350,1,473.12,1,1,1,111,Hibernating / Lost,2,Dormant
+CUST-00058,53,6,22832.34,4,3,4,434,Loyal Customers,0,Low-Value
+CUST-00059,200,5,8421.42,2,3,3,233,Needs Attention,0,Low-Value
+CUST-00060,207,3,8050.54,2,2,2,222,Hibernating / Lost,0,Low-Value
+CUST-00061,99,10,19612.58,3,4,4,344,Loyal Customers,0,Low-Value
+CUST-00062,107,3,1059.4,3,2,1,321,Needs Attention,0,Low-Value
+CUST-00063,190,8,31174.51,2,4,5,245,At Risk,0,Low-Value
+CUST-00064,190,3,3249.1,2,2,1,221,Hibernating / Lost,0,Low-Value
+CUST-00065,716,4,7744.96,1,2,2,122,Hibernating / Lost,2,Dormant
+CUST-00066,84,7,33678.61,3,4,5,345,Loyal Customers,0,Low-Value
+CUST-00067,663,1,9309.78,1,1,3,113,Hibernating / Lost,2,Dormant
+CUST-00068,358,2,3690.57,1,1,1,111,Hibernating / Lost,2,Dormant
+CUST-00069,76,10,19587.76,3,4,4,344,Loyal Customers,0,Low-Value
+CUST-00070,25,33,68606.55,5,5,5,555,Champions,1,Mid-Value
+CUST-00071,95,4,5618.85,3,2,2,322,Needs Attention,0,Low-Value
+CUST-00072,50,6,29401.05,4,3,5,435,Loyal Customers,0,Low-Value
+CUST-00073,28,9,18743.36,5,4,4,544,Champions,0,Low-Value
+CUST-00074,55,4,8317.79,4,2,2,422,New / Promising,0,Low-Value
+CUST-00075,554,1,3168.2,1,1,1,111,Hibernating / Lost,2,Dormant
+CUST-00076,317,2,5296.62,2,1,2,212,Hibernating / Lost,2,Dormant
+CUST-00077,328,6,14435.21,2,3,3,233,Needs Attention,2,Dormant
+CUST-00078,170,11,14890.2,2,4,4,244,At Risk,0,Low-Value
+CUST-00079,38,3,14430.09,4,2,3,423,New / Promising,0,Low-Value
+CUST-00080,49,2,5006.44,4,1,2,412,New / Promising,0,Low-Value
+CUST-00081,42,5,7563.15,4,3,2,432,Loyal Customers,0,Low-Value
+CUST-00082,221,9,12616.76,2,4,3,243,At Risk,0,Low-Value
+CUST-00084,96,2,6050.53,3,1,2,312,Needs Attention,0,Low-Value
+CUST-00085,22,5,15023.21,5,3,4,534,Loyal Customers,0,Low-Value
+CUST-00086,116,3,5209.469999999999,3,2,2,322,Needs Attention,0,Low-Value
+CUST-00087,201,7,25846.51,2,4,4,244,At Risk,0,Low-Value
+CUST-00088,588,3,7717.97,1,2,2,122,Hibernating / Lost,2,Dormant
+CUST-00089,137,1,496.4500000000001,3,1,1,311,Needs Attention,0,Low-Value
+CUST-00090,456,1,2899.89,1,1,1,111,Hibernating / Lost,2,Dormant
+CUST-00091,121,8,16381.29,3,4,4,344,Loyal Customers,0,Low-Value
+CUST-00092,28,14,35762.87,5,5,5,555,Champions,0,Low-Value
+CUST-00093,43,9,27974.09,4,4,5,445,Champions,0,Low-Value
+CUST-00094,360,4,5931.26,1,2,2,122,Hibernating / Lost,2,Dormant
+CUST-00095,297,8,21076.87,2,4,4,244,At Risk,0,Low-Value
+CUST-00096,213,3,8152.32,2,2,2,222,Hibernating / Lost,0,Low-Value
+CUST-00097,762,1,304.15000000000003,1,1,1,111,Hibernating / Lost,2,Dormant
+CUST-00098,88,17,30782.5,3,5,5,355,Loyal Customers,0,Low-Value
+CUST-00100,792,1,737.02,1,1,1,111,Hibernating / Lost,2,Dormant
+CUST-00101,411,2,480.89,1,1,1,111,Hibernating / Lost,2,Dormant
+CUST-00103,301,5,13293.6,2,3,3,233,Needs Attention,2,Dormant
+CUST-00104,47,6,4973.27,4,3,2,432,Loyal Customers,0,Low-Value
+CUST-00105,55,3,2685.13,4,2,1,421,New / Promising,0,Low-Value
+CUST-00106,50,15,32361.14,4,5,5,455,Champions,0,Low-Value
+CUST-00107,43,11,18147.89,4,4,4,444,Champions,0,Low-Value
+CUST-00108,206,2,8457.77,2,1,3,213,Hibernating / Lost,0,Low-Value
+CUST-00109,59,3,1821.56,4,2,1,421,New / Promising,0,Low-Value
+CUST-00110,123,6,12259.44,3,3,3,333,Loyal Customers,0,Low-Value
+CUST-00111,180,5,21540.1,2,3,4,234,Needs Attention,0,Low-Value
+CUST-00112,24,3,7627.120000000001,5,2,2,522,New / Promising,0,Low-Value
+CUST-00113,28,7,10179.57,5,4,3,543,Champions,0,Low-Value
+CUST-00114,363,5,15734.17,1,3,4,134,Needs Attention,2,Dormant
+CUST-00115,30,10,42590.55,5,4,5,545,Champions,0,Low-Value
+CUST-00116,78,4,3157.68,3,2,1,321,Needs Attention,0,Low-Value
+CUST-00117,348,2,1404.55,1,1,1,111,Hibernating / Lost,2,Dormant
+CUST-00118,45,28,83211.76,4,5,5,455,Champions,1,Mid-Value
+CUST-00119,50,5,4538.62,4,3,2,432,Loyal Customers,0,Low-Value
+CUST-00120,404,2,6221.110000000001,1,1,2,112,Hibernating / Lost,2,Dormant
+CUST-00121,28,19,34069.1,5,5,5,555,Champions,0,Low-Value
+CUST-00122,41,8,23005.730000000003,4,4,4,444,Champions,0,Low-Value
+CUST-00123,31,18,42844.99,5,5,5,555,Champions,0,Low-Value
+CUST-00124,108,12,15342.6,3,5,4,354,Loyal Customers,0,Low-Value
+CUST-00125,20,3,11220.95,5,2,3,523,New / Promising,0,Low-Value
+CUST-00127,779,2,8531.97,1,1,3,113,Hibernating / Lost,2,Dormant
+CUST-00128,368,6,6803.13,1,3,2,132,Needs Attention,2,Dormant
+CUST-00129,78,5,9968.43,3,3,3,333,Loyal Customers,0,Low-Value
+CUST-00130,20,4,4742.94,5,2,2,522,New / Promising,0,Low-Value
+CUST-00132,49,15,29145.85,4,5,5,455,Champions,0,Low-Value
+CUST-00133,19,43,109191.46,5,5,5,555,Champions,1,Mid-Value
+CUST-00134,62,7,29721.64,4,4,5,445,Champions,0,Low-Value
+CUST-00135,254,2,6419.360000000001,2,1,2,212,Hibernating / Lost,0,Low-Value
+CUST-00136,63,1,2261.13,3,1,1,311,Needs Attention,0,Low-Value
+CUST-00138,43,20,43194.22,4,5,5,455,Champions,0,Low-Value
+CUST-00139,44,2,6439.92,4,1,2,412,New / Promising,0,Low-Value
+CUST-00140,32,6,18138.45,5,3,4,534,Loyal Customers,0,Low-Value
+CUST-00141,579,4,16080.520000000002,1,2,4,124,Hibernating / Lost,2,Dormant
+CUST-00142,217,7,12399.11,2,4,3,243,At Risk,0,Low-Value
+CUST-00143,132,10,34398.76,3,4,5,345,Loyal Customers,0,Low-Value
+CUST-00144,336,11,29626.49,1,4,5,145,At Risk,2,Dormant
+CUST-00145,451,4,9735.77,1,2,3,123,Hibernating / Lost,2,Dormant
+CUST-00146,297,2,1884.86,2,1,1,211,Hibernating / Lost,2,Dormant
+CUST-00147,60,2,3076.78,4,1,1,411,New / Promising,0,Low-Value
+CUST-00148,58,18,43531.95,4,5,5,455,Champions,0,Low-Value
+CUST-00149,64,17,51785.87,3,5,5,355,Loyal Customers,0,Low-Value
+CUST-00150,61,4,10417.36,4,2,3,423,New / Promising,0,Low-Value
+CUST-00151,192,8,21791.4,2,4,4,244,At Risk,0,Low-Value
+CUST-00152,130,10,27257.68,3,4,5,345,Loyal Customers,0,Low-Value
+CUST-00153,809,1,76.12,1,1,1,111,Hibernating / Lost,2,Dormant
+CUST-00154,32,15,30896.47,5,5,5,555,Champions,0,Low-Value
+CUST-00155,411,2,2428.52,1,1,1,111,Hibernating / Lost,2,Dormant
+CUST-00156,239,6,9342.54,2,3,3,233,Needs Attention,0,Low-Value
+CUST-00157,370,4,6476.45,1,2,2,122,Hibernating / Lost,2,Dormant
+CUST-00158,37,3,4642.610000000001,4,2,2,422,New / Promising,0,Low-Value
+CUST-00160,76,7,21611.48,3,4,4,344,Loyal Customers,0,Low-Value
+CUST-00161,983,2,595.2,1,1,1,111,Hibernating / Lost,2,Dormant
+CUST-00162,389,6,22870.22,1,3,4,134,Needs Attention,2,Dormant
+CUST-00163,673,3,15319.75,1,2,4,124,Hibernating / Lost,2,Dormant
+CUST-00164,614,3,11361.53,1,2,3,123,Hibernating / Lost,2,Dormant
+CUST-00165,21,3,17004.55,5,2,4,524,New / Promising,0,Low-Value
+CUST-00166,62,2,10557.759999999998,4,1,3,413,New / Promising,0,Low-Value
+CUST-00167,60,11,25367.42,4,4,4,444,Champions,0,Low-Value
+CUST-00168,117,5,1789.9900000000002,3,3,1,331,Loyal Customers,0,Low-Value
+CUST-00169,18,5,12534.08,5,3,3,533,Loyal Customers,0,Low-Value
+CUST-00170,58,6,28056.78,4,3,5,435,Loyal Customers,0,Low-Value
+CUST-00171,109,9,17250.63,3,4,4,344,Loyal Customers,0,Low-Value
+CUST-00172,30,19,64863.96,5,5,5,555,Champions,1,Mid-Value
+CUST-00173,111,7,11000.46,3,4,3,343,Loyal Customers,0,Low-Value
+CUST-00174,898,1,21.94,1,1,1,111,Hibernating / Lost,2,Dormant
+CUST-00175,37,4,9871.92,4,2,3,423,New / Promising,0,Low-Value
+CUST-00176,346,4,3391.5200000000004,1,2,1,121,Hibernating / Lost,2,Dormant
+CUST-00177,76,5,10032.25,3,3,3,333,Loyal Customers,0,Low-Value
+CUST-00178,225,1,5813.76,2,1,2,212,Hibernating / Lost,0,Low-Value
+CUST-00179,244,4,8328.85,2,2,2,222,Hibernating / Lost,0,Low-Value
+CUST-00180,28,9,20726.03,5,4,4,544,Champions,0,Low-Value
+CUST-00181,487,1,2891.41,1,1,1,111,Hibernating / Lost,2,Dormant
+CUST-00182,305,7,32260.86,2,4,5,245,At Risk,0,Low-Value
+CUST-00183,768,1,1999.25,1,1,1,111,Hibernating / Lost,2,Dormant
+CUST-00184,254,1,1810.21,2,1,1,211,Hibernating / Lost,0,Low-Value
+CUST-00185,20,10,16492.06,5,4,4,544,Champions,0,Low-Value
+CUST-00186,23,9,14680.7,5,4,3,543,Champions,0,Low-Value
+CUST-00187,51,7,11420.26,4,4,3,443,Champions,0,Low-Value
+CUST-00188,22,6,12160.92,5,3,3,533,Loyal Customers,0,Low-Value
+CUST-00189,98,3,10824.94,3,2,3,323,Needs Attention,0,Low-Value
+CUST-00190,152,8,17379.5,2,4,4,244,At Risk,0,Low-Value
+CUST-00191,31,9,21770.82,5,4,4,544,Champions,0,Low-Value
+CUST-00192,231,11,17181.55,2,4,4,244,At Risk,0,Low-Value
+CUST-00193,220,3,3363.16,2,2,1,221,Hibernating / Lost,0,Low-Value
+CUST-00194,197,3,5772.15,2,2,2,222,Hibernating / Lost,0,Low-Value
+CUST-00195,28,6,9311.34,5,3,3,533,Loyal Customers,0,Low-Value
+CUST-00196,232,3,3468.32,2,2,1,221,Hibernating / Lost,0,Low-Value
+CUST-00197,36,10,19910.09,4,4,4,444,Champions,0,Low-Value
+CUST-00198,75,3,13501.29,3,2,3,323,Needs Attention,0,Low-Value
+CUST-00199,64,26,65640.12,3,5,5,355,Loyal Customers,1,Mid-Value
+CUST-00200,226,2,2499.98,2,1,1,211,Hibernating / Lost,0,Low-Value
+CUST-00201,109,3,8683.7,3,2,3,323,Needs Attention,0,Low-Value
+CUST-00202,787,1,4756.679999999999,1,1,2,112,Hibernating / Lost,2,Dormant
+CUST-00203,53,10,27774.71,4,4,5,445,Champions,0,Low-Value
+CUST-00204,67,7,7238.679999999999,3,4,2,342,Loyal Customers,0,Low-Value
+CUST-00205,232,5,6288.389999999999,2,3,2,232,Needs Attention,0,Low-Value
+CUST-00206,72,6,12673.0,3,3,3,333,Loyal Customers,0,Low-Value
+CUST-00207,20,4,11819.1,5,2,3,523,New / Promising,0,Low-Value
+CUST-00208,66,13,25669.55,3,5,4,354,Loyal Customers,0,Low-Value
+CUST-00209,149,2,6056.9,2,1,2,212,Hibernating / Lost,0,Low-Value
+CUST-00210,110,8,14831.21,3,4,3,343,Loyal Customers,0,Low-Value
+CUST-00211,191,2,8998.59,2,1,3,213,Hibernating / Lost,0,Low-Value
+CUST-00212,51,47,116254.17,4,5,5,455,Champions,1,Mid-Value
+CUST-00213,32,30,78016.93000000001,5,5,5,555,Champions,1,Mid-Value
+CUST-00214,94,3,2417.53,3,2,1,321,Needs Attention,0,Low-Value
+CUST-00215,33,7,13888.98,5,4,3,543,Champions,0,Low-Value
+CUST-00216,21,19,55793.17,5,5,5,555,Champions,1,Mid-Value
+CUST-00217,530,1,957.42,1,1,1,111,Hibernating / Lost,2,Dormant
+CUST-00218,285,3,8396.91,2,2,3,223,Hibernating / Lost,2,Dormant
+CUST-00219,18,16,66438.51,5,5,5,555,Champions,1,Mid-Value
+CUST-00220,427,2,1506.92,1,1,1,111,Hibernating / Lost,2,Dormant
+CUST-00221,41,8,21248.18,4,4,4,444,Champions,0,Low-Value
+CUST-00222,66,4,9830.3,3,2,3,323,Needs Attention,0,Low-Value
+CUST-00223,249,14,39949.15,2,5,5,255,At Risk,0,Low-Value
+CUST-00224,24,33,77052.63,5,5,5,555,Champions,1,Mid-Value
+CUST-00225,28,16,34213.44,5,5,5,555,Champions,0,Low-Value
+CUST-00226,65,5,12749.14,3,3,3,333,Loyal Customers,0,Low-Value
+CUST-00227,44,11,30087.93,4,4,5,445,Champions,0,Low-Value
+CUST-00228,145,10,15272.63,2,4,4,244,At Risk,0,Low-Value
+CUST-00229,414,2,1189.73,1,1,1,111,Hibernating / Lost,2,Dormant
+CUST-00230,52,13,42225.25,4,5,5,455,Champions,0,Low-Value
+CUST-00231,802,1,12310.99,1,1,3,113,Hibernating / Lost,2,Dormant
+CUST-00232,240,6,6585.86,2,3,2,232,Needs Attention,0,Low-Value
+CUST-00233,104,1,843.1,3,1,1,311,Needs Attention,0,Low-Value
+CUST-00234,42,5,14839.03,4,3,4,434,Loyal Customers,0,Low-Value
+CUST-00235,133,1,512.86,3,1,1,311,Needs Attention,0,Low-Value
+CUST-00236,390,6,8248.76,1,3,2,132,Needs Attention,2,Dormant
+CUST-00237,49,6,13969.73,4,3,3,433,Loyal Customers,0,Low-Value
+CUST-00238,69,10,29707.17,3,4,5,345,Loyal Customers,0,Low-Value
+CUST-00239,532,1,7234.360000000001,1,1,2,112,Hibernating / Lost,2,Dormant
+CUST-00240,234,3,2316.9700000000003,2,2,1,221,Hibernating / Lost,0,Low-Value
+CUST-00241,85,4,1576.58,3,2,1,321,Needs Attention,0,Low-Value
+CUST-00242,201,12,22560.33,2,5,4,254,At Risk,0,Low-Value
+CUST-00243,233,2,1267.58,2,1,1,211,Hibernating / Lost,0,Low-Value
+CUST-00244,105,7,13447.09,3,4,3,343,Loyal Customers,0,Low-Value
+CUST-00245,24,19,40157.26,5,5,5,555,Champions,0,Low-Value
+CUST-00246,366,2,2924.3900000000003,1,1,1,111,Hibernating / Lost,2,Dormant
+CUST-00247,480,4,6332.64,1,2,2,122,Hibernating / Lost,2,Dormant
+CUST-00248,77,2,369.77,3,1,1,311,Needs Attention,0,Low-Value
+CUST-00249,159,8,18141.9,2,4,4,244,At Risk,0,Low-Value
+CUST-00250,787,1,3291.66,1,1,1,111,Hibernating / Lost,2,Dormant
+CUST-00251,32,15,34701.73,5,5,5,555,Champions,0,Low-Value
+CUST-00252,623,4,10312.78,1,2,3,123,Hibernating / Lost,2,Dormant
+CUST-00253,26,24,59697.35,5,5,5,555,Champions,1,Mid-Value
+CUST-00254,82,11,32306.17,3,4,5,345,Loyal Customers,0,Low-Value
+CUST-00255,20,127,302814.02,5,5,5,555,Champions,3,High-Value
+CUST-00256,423,1,280.03,1,1,1,111,Hibernating / Lost,2,Dormant
+CUST-00257,515,7,19721.67,1,4,4,144,At Risk,2,Dormant
+CUST-00258,38,6,7601.71,4,3,2,432,Loyal Customers,0,Low-Value
+CUST-00259,429,3,4184.58,1,2,2,122,Hibernating / Lost,2,Dormant
+CUST-00260,66,3,2852.5,3,2,1,321,Needs Attention,0,Low-Value
+CUST-00261,239,12,12714.42,2,5,3,253,At Risk,0,Low-Value
+CUST-00262,24,50,137860.32,5,5,5,555,Champions,1,Mid-Value
+CUST-00263,104,7,23306.47,3,4,4,344,Loyal Customers,0,Low-Value
+CUST-00264,462,3,4143.61,1,2,2,122,Hibernating / Lost,2,Dormant
+CUST-00265,81,3,4633.39,3,2,2,322,Needs Attention,0,Low-Value
+CUST-00266,21,7,31477.41,5,4,5,545,Champions,0,Low-Value
+CUST-00268,367,1,6032.87,1,1,2,112,Hibernating / Lost,2,Dormant
+CUST-00269,115,1,225.41,3,1,1,311,Needs Attention,0,Low-Value
+CUST-00270,329,2,4052.78,1,1,2,112,Hibernating / Lost,2,Dormant
+CUST-00272,801,1,3387.4,1,1,1,111,Hibernating / Lost,2,Dormant
+CUST-00274,538,3,10383.53,1,2,3,123,Hibernating / Lost,2,Dormant
+CUST-00275,24,63,128180.15,5,5,5,555,Champions,1,Mid-Value
+CUST-00276,467,1,5202.1,1,1,2,112,Hibernating / Lost,2,Dormant
+CUST-00278,38,3,12852.18,4,2,3,423,New / Promising,0,Low-Value
+CUST-00279,518,2,10138.88,1,1,3,113,Hibernating / Lost,2,Dormant
+CUST-00280,33,18,20532.53,5,5,4,554,Champions,0,Low-Value
+CUST-00281,59,6,13873.97,4,3,3,433,Loyal Customers,0,Low-Value
+CUST-00282,196,2,5886.9,2,1,2,212,Hibernating / Lost,0,Low-Value
+CUST-00283,167,3,3951.7,2,2,2,222,Hibernating / Lost,0,Low-Value
+CUST-00284,70,13,18699.9,3,5,4,354,Loyal Customers,0,Low-Value
+CUST-00285,22,13,32511.98,5,5,5,555,Champions,0,Low-Value
+CUST-00286,76,4,9102.9,3,2,3,323,Needs Attention,0,Low-Value
+CUST-00287,225,4,10055.759999999998,2,2,3,223,Hibernating / Lost,0,Low-Value
+CUST-00288,27,2,7112.199999999999,5,1,2,512,New / Promising,0,Low-Value
+CUST-00289,25,67,156368.17,5,5,5,555,Champions,1,Mid-Value
+CUST-00290,54,5,12881.8,4,3,3,433,Loyal Customers,0,Low-Value
+CUST-00291,96,21,59355.04,3,5,5,355,Loyal Customers,1,Mid-Value
+CUST-00292,60,6,11903.96,4,3,3,433,Loyal Customers,0,Low-Value
+CUST-00293,70,2,139.35,3,1,1,311,Needs Attention,0,Low-Value
+CUST-00294,127,6,16860.21,3,3,4,334,Loyal Customers,0,Low-Value
+CUST-00295,29,1,33.06,5,1,1,511,New / Promising,0,Low-Value
+CUST-00296,69,3,5901.38,3,2,2,322,Needs Attention,0,Low-Value
+CUST-00297,44,4,16929.3,4,2,4,424,New / Promising,0,Low-Value
+CUST-00298,109,3,3084.97,3,2,1,321,Needs Attention,0,Low-Value
+CUST-00299,27,12,39478.08,5,5,5,555,Champions,0,Low-Value
+CUST-00300,47,3,7034.2,4,2,2,422,New / Promising,0,Low-Value
+CUST-00301,332,1,2999.64,1,1,1,111,Hibernating / Lost,2,Dormant
+CUST-00302,26,25,50240.9,5,5,5,555,Champions,1,Mid-Value
+CUST-00303,51,9,20557.12,4,4,4,444,Champions,0,Low-Value
+CUST-00304,70,18,36877.71,3,5,5,355,Loyal Customers,0,Low-Value
+CUST-00305,28,72,207618.14,5,5,5,555,Champions,3,High-Value
+CUST-00306,421,2,11488.08,1,1,3,113,Hibernating / Lost,2,Dormant
+CUST-00307,184,5,15959.16,2,3,4,234,Needs Attention,0,Low-Value
+CUST-00308,225,5,11794.4,2,3,3,233,Needs Attention,0,Low-Value
+CUST-00309,53,7,16414.31,4,4,4,444,Champions,0,Low-Value
+CUST-00310,121,5,4305.42,3,3,2,332,Loyal Customers,0,Low-Value
+CUST-00311,34,14,26767.62,5,5,5,555,Champions,0,Low-Value
+CUST-00312,386,3,1035.4,1,2,1,121,Hibernating / Lost,2,Dormant
+CUST-00313,511,2,3923.3,1,1,2,112,Hibernating / Lost,2,Dormant
+CUST-00314,246,3,10701.89,2,2,3,223,Hibernating / Lost,0,Low-Value
+CUST-00315,45,7,16655.41,4,4,4,444,Champions,0,Low-Value
+CUST-00316,27,11,23943.72,5,4,4,544,Champions,0,Low-Value
+CUST-00318,35,11,29241.92,5,4,5,545,Champions,0,Low-Value
+CUST-00319,50,2,11250.78,4,1,3,413,New / Promising,0,Low-Value
+CUST-00320,246,2,2851.25,2,1,1,211,Hibernating / Lost,0,Low-Value
+CUST-00321,42,15,22368.8,4,5,4,454,Champions,0,Low-Value
+CUST-00322,39,33,47708.21,4,5,5,455,Champions,1,Mid-Value
+CUST-00323,26,20,37612.85,5,5,5,555,Champions,0,Low-Value
+CUST-00324,525,9,6929.9,1,4,2,142,At Risk,2,Dormant
+CUST-00325,802,4,6264.639999999999,1,2,2,122,Hibernating / Lost,2,Dormant
+CUST-00326,56,2,7284.95,4,1,2,412,New / Promising,0,Low-Value
+CUST-00327,35,3,4571.14,5,2,2,522,New / Promising,0,Low-Value
+CUST-00328,68,3,3626.73,3,2,1,321,Needs Attention,0,Low-Value
+CUST-00329,325,1,139.78,2,1,1,211,Hibernating / Lost,2,Dormant
+CUST-00330,37,3,2463.7,4,2,1,421,New / Promising,0,Low-Value
+CUST-00331,452,3,1591.56,1,2,1,121,Hibernating / Lost,2,Dormant
+CUST-00332,110,6,10039.24,3,3,3,333,Loyal Customers,0,Low-Value
+CUST-00333,622,2,1719.48,1,1,1,111,Hibernating / Lost,2,Dormant
+CUST-00334,794,1,1808.98,1,1,1,111,Hibernating / Lost,2,Dormant
+CUST-00335,30,5,23535.9,5,3,4,534,Loyal Customers,0,Low-Value
+CUST-00336,337,1,6691.42,1,1,2,112,Hibernating / Lost,2,Dormant
+CUST-00337,215,12,27757.88,2,5,5,255,At Risk,0,Low-Value
+CUST-00338,31,4,10854.63,5,2,3,523,New / Promising,0,Low-Value
+CUST-00339,35,7,9070.48,5,4,3,543,Champions,0,Low-Value
+CUST-00340,304,4,9321.05,2,2,3,223,Hibernating / Lost,2,Dormant
+CUST-00341,28,15,27705.29,5,5,5,555,Champions,0,Low-Value
+CUST-00342,142,6,6948.450000000001,3,3,2,332,Loyal Customers,0,Low-Value
+CUST-00343,247,5,5219.88,2,3,2,232,Needs Attention,0,Low-Value
+CUST-00344,35,4,17199.63,5,2,4,524,New / Promising,0,Low-Value
+CUST-00345,139,2,1779.68,3,1,1,311,Needs Attention,0,Low-Value
+CUST-00346,23,14,24702.92,5,5,4,554,Champions,0,Low-Value
+CUST-00347,69,8,21660.66,3,4,4,344,Loyal Customers,0,Low-Value
+CUST-00348,5,6,4010.91,5,3,2,532,Loyal Customers,0,Low-Value
+CUST-00349,35,19,43958.990000000005,5,5,5,555,Champions,0,Low-Value
+CUST-00350,32,7,15146.18,5,4,4,544,Champions,0,Low-Value
+CUST-00351,306,10,22212.67,2,4,4,244,At Risk,0,Low-Value
+CUST-00352,31,11,14010.0,5,4,3,543,Champions,0,Low-Value
+CUST-00353,102,4,5676.09,3,2,2,322,Needs Attention,0,Low-Value
+CUST-00354,129,9,20113.87,3,4,4,344,Loyal Customers,0,Low-Value
+CUST-00355,149,5,20595.28,2,3,4,234,Needs Attention,0,Low-Value
+CUST-00356,112,9,12429.02,3,4,3,343,Loyal Customers,0,Low-Value
+CUST-00357,427,1,1376.18,1,1,1,111,Hibernating / Lost,2,Dormant
+CUST-00358,54,18,33977.18,4,5,5,455,Champions,0,Low-Value
+CUST-00359,71,13,23309.81,3,5,4,354,Loyal Customers,0,Low-Value
+CUST-00361,63,17,36908.9,3,5,5,355,Loyal Customers,0,Low-Value
+CUST-00362,281,3,1410.8300000000002,2,2,1,221,Hibernating / Lost,2,Dormant
+CUST-00363,91,3,4562.4400000000005,3,2,2,322,Needs Attention,0,Low-Value
+CUST-00364,60,6,12313.28,4,3,3,433,Loyal Customers,0,Low-Value
+CUST-00365,183,1,4852.38,2,1,2,212,Hibernating / Lost,0,Low-Value
+CUST-00366,78,10,11058.16,3,4,3,343,Loyal Customers,0,Low-Value
+CUST-00367,26,16,19967.51,5,5,4,554,Champions,0,Low-Value
+CUST-00368,328,2,320.48,2,1,1,211,Hibernating / Lost,2,Dormant
+CUST-00369,139,1,6225.43,3,1,2,312,Needs Attention,0,Low-Value
+CUST-00370,224,4,10045.91,2,2,3,223,Hibernating / Lost,0,Low-Value
+CUST-00371,360,4,5453.01,1,2,2,122,Hibernating / Lost,2,Dormant
+CUST-00372,22,58,118190.87,5,5,5,555,Champions,1,Mid-Value
+CUST-00373,42,9,12119.05,4,4,3,443,Champions,0,Low-Value
+CUST-00374,65,3,2842.25,3,2,1,321,Needs Attention,0,Low-Value
+CUST-00375,115,6,16724.29,3,3,4,334,Loyal Customers,0,Low-Value
+CUST-00376,248,5,5936.77,2,3,2,232,Needs Attention,0,Low-Value
+CUST-00377,112,4,22246.34,3,2,4,324,Needs Attention,0,Low-Value
+CUST-00378,66,2,3961.12,3,1,2,312,Needs Attention,0,Low-Value
+CUST-00379,197,10,40499.38,2,4,5,245,At Risk,0,Low-Value
+CUST-00380,33,4,22568.25,5,2,4,524,New / Promising,0,Low-Value
+CUST-00381,36,27,63374.61,4,5,5,455,Champions,1,Mid-Value
+CUST-00382,91,5,14055.76,3,3,3,333,Loyal Customers,0,Low-Value
+CUST-00383,489,6,13195.99,1,3,3,133,Needs Attention,2,Dormant
+CUST-00384,48,21,33789.96,4,5,5,455,Champions,0,Low-Value
+CUST-00385,50,2,5223.08,4,1,2,412,New / Promising,0,Low-Value
+CUST-00386,31,22,43055.27,5,5,5,555,Champions,1,Mid-Value
+CUST-00387,61,8,14164.07,4,4,3,443,Champions,0,Low-Value
+CUST-00389,255,1,3494.57,2,1,1,211,Hibernating / Lost,0,Low-Value
+CUST-00390,34,7,15338.73,5,4,4,544,Champions,0,Low-Value
+CUST-00391,521,2,1937.39,1,1,1,111,Hibernating / Lost,2,Dormant
+CUST-00392,60,7,17390.31,4,4,4,444,Champions,0,Low-Value
+CUST-00393,142,5,6269.1900000000005,3,3,2,332,Loyal Customers,0,Low-Value
+CUST-00394,21,4,8329.08,5,2,2,522,New / Promising,0,Low-Value
+CUST-00395,514,1,1964.14,1,1,1,111,Hibernating / Lost,2,Dormant
+CUST-00396,19,15,28395.32,5,5,5,555,Champions,0,Low-Value
+CUST-00397,29,34,112719.58,5,5,5,555,Champions,1,Mid-Value
+CUST-00398,27,24,53267.2,5,5,5,555,Champions,1,Mid-Value
+CUST-00399,9,5,4435.85,5,3,2,532,Loyal Customers,0,Low-Value
+CUST-00400,90,2,575.7700000000001,3,1,1,311,Needs Attention,0,Low-Value
+CUST-00401,163,7,12816.68,2,4,3,243,At Risk,0,Low-Value
+CUST-00402,639,2,6682.259999999999,1,1,2,112,Hibernating / Lost,2,Dormant
+CUST-00403,58,1,2229.69,4,1,1,411,New / Promising,0,Low-Value
+CUST-00404,68,4,6271.6900000000005,3,2,2,322,Needs Attention,0,Low-Value
+CUST-00405,60,7,10966.23,4,4,3,443,Champions,0,Low-Value
+CUST-00406,214,11,27520.82,2,4,5,245,At Risk,0,Low-Value
+CUST-00407,36,11,21098.66,4,5,4,454,Champions,0,Low-Value
+CUST-00408,27,7,17110.95,5,4,4,544,Champions,0,Low-Value
+CUST-00409,41,2,14832.21,4,1,3,413,New / Promising,0,Low-Value
+CUST-00410,23,88,230518.33,5,5,5,555,Champions,3,High-Value
+CUST-00411,16,5,13322.93,5,3,3,533,Loyal Customers,0,Low-Value
+CUST-00412,49,6,10897.61,4,3,3,433,Loyal Customers,0,Low-Value
+CUST-00413,58,4,4629.1900000000005,4,2,2,422,New / Promising,0,Low-Value
+CUST-00414,42,9,21618.8,4,4,4,444,Champions,0,Low-Value
+CUST-00415,22,7,12597.92,5,4,3,543,Champions,0,Low-Value
+CUST-00416,687,1,2174.85,1,1,1,111,Hibernating / Lost,2,Dormant
+CUST-00417,371,2,1437.13,1,1,1,111,Hibernating / Lost,2,Dormant
+CUST-00418,60,7,13401.9,4,4,3,443,Champions,0,Low-Value
+CUST-00419,119,10,43007.47,3,4,5,345,Loyal Customers,0,Low-Value
+CUST-00420,800,1,1700.6,1,1,1,111,Hibernating / Lost,2,Dormant
+CUST-00421,63,31,68495.32,3,5,5,355,Loyal Customers,1,Mid-Value
+CUST-00422,147,2,1145.12,2,1,1,211,Hibernating / Lost,0,Low-Value
+CUST-00423,750,2,1185.16,1,1,1,111,Hibernating / Lost,2,Dormant
+CUST-00424,39,25,52782.77,4,5,5,455,Champions,1,Mid-Value
+CUST-00425,411,5,20103.25,1,3,4,134,Needs Attention,2,Dormant
+CUST-00426,138,3,2921.01,3,2,1,321,Needs Attention,0,Low-Value
+CUST-00427,46,7,14988.13,4,4,4,444,Champions,0,Low-Value
+CUST-00428,162,2,8544.83,2,1,3,213,Hibernating / Lost,0,Low-Value
+CUST-00429,18,39,97888.55,5,5,5,555,Champions,1,Mid-Value
+CUST-00430,41,4,10342.15,4,2,3,423,New / Promising,0,Low-Value
+CUST-00431,83,11,14733.23,3,5,3,353,Loyal Customers,0,Low-Value
+CUST-00432,129,5,8892.109999999999,3,3,3,333,Loyal Customers,0,Low-Value
+CUST-00433,889,1,536.78,1,1,1,111,Hibernating / Lost,2,Dormant
+CUST-00434,694,3,4096.88,1,2,2,122,Hibernating / Lost,2,Dormant
+CUST-00435,193,6,18072.54,2,3,4,234,Needs Attention,0,Low-Value
+CUST-00436,214,4,17920.44,2,3,4,234,Needs Attention,0,Low-Value
+CUST-00437,197,11,15506.87,2,5,4,254,At Risk,0,Low-Value
+CUST-00438,203,5,17281.97,2,3,4,234,Needs Attention,0,Low-Value
+CUST-00439,24,24,56074.31,5,5,5,555,Champions,1,Mid-Value
+CUST-00440,325,2,7294.83,2,1,2,212,Hibernating / Lost,2,Dormant
+CUST-00441,53,13,21932.4,4,5,4,454,Champions,0,Low-Value
+CUST-00442,91,7,14785.79,3,4,3,343,Loyal Customers,0,Low-Value
+CUST-00443,144,10,20363.52,2,4,4,244,At Risk,0,Low-Value
+CUST-00444,37,18,58719.17,4,5,5,455,Champions,1,Mid-Value
+CUST-00445,69,8,21459.870000000003,3,4,4,344,Loyal Customers,0,Low-Value
+CUST-00446,22,4,16240.52,5,3,4,534,Loyal Customers,0,Low-Value
+CUST-00448,740,2,4612.91,1,1,2,112,Hibernating / Lost,2,Dormant
+CUST-00449,64,20,44338.670000000006,3,5,5,355,Loyal Customers,0,Low-Value
+CUST-00450,48,8,13845.8,4,4,3,443,Champions,0,Low-Value
+CUST-00451,31,13,31879.4,5,5,5,555,Champions,0,Low-Value
+CUST-00452,177,3,1927.31,2,2,1,221,Hibernating / Lost,0,Low-Value
+CUST-00453,85,1,3529.62,3,1,1,311,Needs Attention,0,Low-Value
+CUST-00455,115,6,7127.8,3,3,2,332,Loyal Customers,0,Low-Value
+CUST-00456,30,4,8000.370000000001,5,3,2,532,Loyal Customers,0,Low-Value
+CUST-00457,219,2,5939.63,2,1,2,212,Hibernating / Lost,0,Low-Value
+CUST-00458,394,5,21734.36,1,3,4,134,Needs Attention,2,Dormant
+CUST-00459,285,2,11892.48,2,1,3,213,Hibernating / Lost,2,Dormant
+CUST-00460,39,7,13880.99,4,4,3,443,Champions,0,Low-Value
+CUST-00461,44,8,17679.21,4,4,4,444,Champions,0,Low-Value
+CUST-00462,259,12,43287.44,2,5,5,255,At Risk,0,Low-Value
+CUST-00463,82,6,8395.59,3,3,3,333,Loyal Customers,0,Low-Value
+CUST-00464,198,3,1894.28,2,2,1,221,Hibernating / Lost,0,Low-Value
+CUST-00465,192,1,5790.54,2,1,2,212,Hibernating / Lost,0,Low-Value
+CUST-00466,54,3,4791.96,4,2,2,422,New / Promising,0,Low-Value
+CUST-00467,165,2,3136.73,2,1,1,211,Hibernating / Lost,0,Low-Value
+CUST-00468,184,3,5254.45,2,2,2,222,Hibernating / Lost,0,Low-Value
+CUST-00469,308,5,28938.83,2,3,5,235,Needs Attention,2,Dormant
+CUST-00470,117,3,2578.53,3,2,1,321,Needs Attention,0,Low-Value
+CUST-00471,89,7,7095.76,3,4,2,342,Loyal Customers,0,Low-Value
+CUST-00472,102,13,26217.97,3,5,5,355,Loyal Customers,0,Low-Value
+CUST-00473,335,11,19267.44,1,5,4,154,At Risk,2,Dormant
+CUST-00474,173,2,4069.33,2,1,2,212,Hibernating / Lost,0,Low-Value
+CUST-00475,63,6,29304.66,3,3,5,335,Loyal Customers,0,Low-Value
+CUST-00476,287,3,2930.3700000000003,2,2,1,221,Hibernating / Lost,2,Dormant
+CUST-00477,754,4,11275.67,1,3,3,133,Needs Attention,2,Dormant
+CUST-00478,19,47,128046.48,5,5,5,555,Champions,1,Mid-Value
+CUST-00480,55,3,3504.85,4,2,1,421,New / Promising,0,Low-Value
+CUST-00481,55,4,18451.13,4,3,4,434,Loyal Customers,0,Low-Value
+CUST-00482,90,6,8189.66,3,3,2,332,Loyal Customers,0,Low-Value
+CUST-00483,153,7,6920.26,2,4,2,242,At Risk,0,Low-Value
+CUST-00484,138,4,6937.81,3,3,2,332,Loyal Customers,0,Low-Value
+CUST-00485,83,5,18867.02,3,3,4,334,Loyal Customers,0,Low-Value
+CUST-00486,68,6,21252.97,3,3,4,334,Loyal Customers,0,Low-Value
+CUST-00487,330,4,13311.329999999998,1,3,3,133,Needs Attention,2,Dormant
+CUST-00488,444,1,3173.15,1,1,1,111,Hibernating / Lost,2,Dormant
+CUST-00489,283,5,9263.5,2,3,3,233,Needs Attention,0,Low-Value
+CUST-00490,65,3,9448.75,3,2,3,323,Needs Attention,0,Low-Value
+CUST-00491,91,6,23935.18,3,3,4,334,Loyal Customers,0,Low-Value
+CUST-00493,134,7,17824.86,3,4,4,344,Loyal Customers,0,Low-Value
+CUST-00494,105,4,11916.8,3,3,3,333,Loyal Customers,0,Low-Value
+CUST-00495,35,10,19512.22,5,4,4,544,Champions,0,Low-Value
+CUST-00496,610,1,507.48,1,1,1,111,Hibernating / Lost,2,Dormant
+CUST-00497,351,5,10605.79,1,3,3,133,Needs Attention,2,Dormant
+CUST-00499,113,8,18399.69,3,4,4,344,Loyal Customers,0,Low-Value
+CUST-00500,423,4,8434.06,1,3,3,133,Needs Attention,2,Dormant
+CUST-00501,302,2,7035.24,2,1,2,212,Hibernating / Lost,2,Dormant
+CUST-00502,51,17,50219.51,4,5,5,455,Champions,0,Low-Value
+CUST-00504,174,4,17562.21,2,3,4,234,Needs Attention,0,Low-Value
+CUST-00505,35,12,27409.42,5,5,5,555,Champions,0,Low-Value
+CUST-00506,30,11,30838.83,5,5,5,555,Champions,0,Low-Value
+CUST-00507,176,5,13965.26,2,3,3,233,Needs Attention,0,Low-Value
+CUST-00508,196,8,16296.27,2,4,4,244,At Risk,0,Low-Value
+CUST-00509,30,3,6228.04,5,2,2,522,New / Promising,0,Low-Value
+CUST-00510,57,14,44753.14,4,5,5,455,Champions,0,Low-Value
+CUST-00511,387,3,8118.700000000001,1,2,2,122,Hibernating / Lost,2,Dormant
+CUST-00512,22,13,31651.06,5,5,5,555,Champions,0,Low-Value
+CUST-00513,38,6,17258.12,4,4,4,444,Champions,0,Low-Value
+CUST-00514,27,10,24440.08,5,4,4,544,Champions,0,Low-Value
+CUST-00515,252,4,11107.92,2,3,3,233,Needs Attention,0,Low-Value
+CUST-00516,30,12,24318.39,5,5,4,554,Champions,0,Low-Value
+CUST-00517,54,4,8565.51,4,3,3,433,Loyal Customers,0,Low-Value
+CUST-00518,33,17,39816.24,5,5,5,555,Champions,0,Low-Value
+CUST-00519,206,2,753.24,2,1,1,211,Hibernating / Lost,0,Low-Value
+CUST-00520,536,1,325.5,1,1,1,111,Hibernating / Lost,2,Dormant
+CUST-00521,417,3,12380.55,1,2,3,123,Hibernating / Lost,2,Dormant
+CUST-00523,49,20,63642.61,4,5,5,455,Champions,1,Mid-Value
+CUST-00524,6,4,3356.66,5,3,1,531,Loyal Customers,0,Low-Value
+CUST-00525,26,34,63384.97,5,5,5,555,Champions,1,Mid-Value
+CUST-00526,430,4,7788.25,1,3,2,132,Needs Attention,2,Dormant
+CUST-00527,35,2,4592.61,5,1,2,512,New / Promising,0,Low-Value
+CUST-00528,25,10,22859.47,5,4,4,544,Champions,0,Low-Value
+CUST-00529,70,8,12212.79,3,4,3,343,Loyal Customers,0,Low-Value
+CUST-00530,18,4,17088.89,5,3,4,534,Loyal Customers,0,Low-Value
+CUST-00531,365,4,9948.09,1,3,3,133,Needs Attention,2,Dormant
+CUST-00532,137,6,35880.880000000005,3,4,5,345,Loyal Customers,0,Low-Value
+CUST-00533,607,3,10000.41,1,2,3,123,Hibernating / Lost,2,Dormant
+CUST-00534,19,95,224480.47,5,5,5,555,Champions,3,High-Value
+CUST-00535,63,32,97755.22,3,5,5,355,Loyal Customers,1,Mid-Value
+CUST-00536,369,1,909.83,1,1,1,111,Hibernating / Lost,2,Dormant
+CUST-00537,231,1,968.81,2,1,1,211,Hibernating / Lost,0,Low-Value
+CUST-00538,40,5,10306.46,4,3,3,433,Loyal Customers,0,Low-Value
+CUST-00539,925,1,600.91,1,1,1,111,Hibernating / Lost,2,Dormant
+CUST-00541,168,1,164.98,2,1,1,211,Hibernating / Lost,0,Low-Value
+CUST-00542,512,2,382.53,1,1,1,111,Hibernating / Lost,2,Dormant
+CUST-00543,22,18,48426.05,5,5,5,555,Champions,0,Low-Value
+CUST-00544,54,14,19073.02,4,5,4,454,Champions,0,Low-Value
+CUST-00545,24,9,20377.82,5,4,4,544,Champions,0,Low-Value
+CUST-00546,34,3,17722.58,5,2,4,524,New / Promising,0,Low-Value
+CUST-00547,332,4,5667.41,1,3,2,132,Needs Attention,2,Dormant
+CUST-00548,43,5,8242.02,4,3,2,432,Loyal Customers,0,Low-Value
+CUST-00549,22,51,109444.88,5,5,5,555,Champions,1,Mid-Value
+CUST-00550,137,1,6065.3,3,1,2,312,Needs Attention,0,Low-Value
+CUST-00551,44,17,49203.54,4,5,5,455,Champions,0,Low-Value
+CUST-00552,266,9,13972.42,2,4,3,243,At Risk,0,Low-Value
+CUST-00553,62,3,6377.490000000001,4,2,2,422,New / Promising,0,Low-Value
+CUST-00554,38,13,24763.29,4,5,4,454,Champions,0,Low-Value
+CUST-00555,267,4,11592.94,2,3,3,233,Needs Attention,0,Low-Value
+CUST-00556,21,11,42694.59,5,5,5,555,Champions,0,Low-Value
+CUST-00557,65,18,41313.02,3,5,5,355,Loyal Customers,0,Low-Value
+CUST-00558,1,7,32854.25,5,4,5,545,Champions,0,Low-Value
+CUST-00559,61,5,20649.48,4,3,4,434,Loyal Customers,0,Low-Value
+CUST-00560,349,5,6348.700000000001,1,3,2,132,Needs Attention,2,Dormant
+CUST-00561,66,18,43375.7,3,5,5,355,Loyal Customers,0,Low-Value
+CUST-00562,57,4,11659.31,4,3,3,433,Loyal Customers,0,Low-Value
+CUST-00563,91,8,22643.63,3,4,4,344,Loyal Customers,0,Low-Value
+CUST-00564,19,11,20291.63,5,5,4,554,Champions,0,Low-Value
+CUST-00565,36,7,12446.87,4,4,3,443,Champions,0,Low-Value
+CUST-00566,433,3,9245.86,1,2,3,123,Hibernating / Lost,2,Dormant
+CUST-00567,114,10,21593.67,3,4,4,344,Loyal Customers,0,Low-Value
+CUST-00568,34,18,35158.98,5,5,5,555,Champions,0,Low-Value
+CUST-00570,216,4,7226.0,2,3,2,232,Needs Attention,0,Low-Value
+CUST-00571,18,32,88062.05,5,5,5,555,Champions,1,Mid-Value
+CUST-00573,24,13,24901.07,5,5,4,554,Champions,0,Low-Value
+CUST-00574,56,4,7002.1,4,3,2,432,Loyal Customers,0,Low-Value
+CUST-00575,727,1,445.83,1,1,1,111,Hibernating / Lost,2,Dormant
+CUST-00576,52,12,27799.21,4,5,5,455,Champions,0,Low-Value
+CUST-00577,204,5,8888.22,2,3,3,233,Needs Attention,0,Low-Value
+CUST-00578,473,6,11891.28,1,4,3,143,At Risk,2,Dormant
+CUST-00579,223,3,3157.0600000000004,2,2,1,221,Hibernating / Lost,0,Low-Value
+CUST-00580,91,3,1591.0,3,2,1,321,Needs Attention,0,Low-Value
+CUST-00582,769,1,1532.32,1,1,1,111,Hibernating / Lost,2,Dormant
+CUST-00583,46,29,73903.31,4,5,5,455,Champions,1,Mid-Value
+CUST-00584,517,1,371.01,1,1,1,111,Hibernating / Lost,2,Dormant
+CUST-00585,92,9,26362.29,3,4,5,345,Loyal Customers,0,Low-Value
+CUST-00586,602,3,7052.779999999999,1,2,2,122,Hibernating / Lost,2,Dormant
+CUST-00587,23,8,11896.77,5,4,3,543,Champions,0,Low-Value
+CUST-00588,268,2,4323.55,2,1,2,212,Hibernating / Lost,0,Low-Value
+CUST-00589,50,36,86695.56,4,5,5,455,Champions,1,Mid-Value
+CUST-00590,52,5,8836.3,4,3,3,433,Loyal Customers,0,Low-Value
+CUST-00591,324,5,6026.65,2,3,2,232,Needs Attention,2,Dormant
+CUST-00592,57,3,16670.75,4,2,4,424,New / Promising,0,Low-Value
+CUST-00594,391,4,4572.4,1,3,2,132,Needs Attention,2,Dormant
+CUST-00595,472,1,3031.16,1,1,1,111,Hibernating / Lost,2,Dormant
+CUST-00596,62,10,44672.23,4,4,5,445,Champions,0,Low-Value
+CUST-00597,157,6,5795.31,2,4,2,242,At Risk,0,Low-Value
+CUST-00598,46,2,1075.18,4,1,1,411,New / Promising,0,Low-Value
+CUST-00599,65,7,14766.63,3,4,3,343,Loyal Customers,0,Low-Value
+CUST-00600,110,12,30605.21,3,5,5,355,Loyal Customers,0,Low-Value
+CUST-00601,192,3,1983.95,2,2,1,221,Hibernating / Lost,0,Low-Value
+CUST-00602,55,2,3112.48,4,1,1,411,New / Promising,0,Low-Value
+CUST-00603,43,5,8002.88,4,3,2,432,Loyal Customers,0,Low-Value
+CUST-00604,24,3,11435.76,5,2,3,523,New / Promising,0,Low-Value
+CUST-00605,62,8,16470.43,4,4,4,444,Champions,0,Low-Value
+CUST-00606,58,5,11770.17,4,3,3,433,Loyal Customers,0,Low-Value
+CUST-00607,23,22,52024.77,5,5,5,555,Champions,1,Mid-Value
+CUST-00608,115,10,25008.11,3,4,4,344,Loyal Customers,0,Low-Value
+CUST-00609,40,11,30642.0,4,5,5,455,Champions,0,Low-Value
+CUST-00610,460,7,19876.69,1,4,4,144,At Risk,2,Dormant
+CUST-00611,127,1,1106.59,3,1,1,311,Needs Attention,0,Low-Value
+CUST-00612,127,1,700.58,3,1,1,311,Needs Attention,0,Low-Value
+CUST-00613,396,2,5426.93,1,1,2,112,Hibernating / Lost,2,Dormant
+CUST-00614,728,3,10539.57,1,2,3,123,Hibernating / Lost,2,Dormant
+CUST-00615,42,4,15883.34,4,3,4,434,Loyal Customers,0,Low-Value
+CUST-00616,25,19,59975.07,5,5,5,555,Champions,1,Mid-Value
+CUST-00617,523,3,7977.69,1,2,2,122,Hibernating / Lost,2,Dormant
+CUST-00619,184,1,631.15,2,1,1,211,Hibernating / Lost,0,Low-Value
+CUST-00620,61,16,50389.56,4,5,5,455,Champions,0,Low-Value
+CUST-00621,189,2,351.8,2,1,1,211,Hibernating / Lost,0,Low-Value
+CUST-00622,550,3,8003.389999999999,1,2,2,122,Hibernating / Lost,2,Dormant
+CUST-00623,30,4,5888.299999999999,5,3,2,532,Loyal Customers,0,Low-Value
+CUST-00624,446,3,4992.28,1,2,2,122,Hibernating / Lost,2,Dormant
+CUST-00625,26,46,103939.09,5,5,5,555,Champions,1,Mid-Value
+CUST-00626,24,43,109171.5,5,5,5,555,Champions,1,Mid-Value
+CUST-00627,54,1,3947.55,4,1,2,412,New / Promising,0,Low-Value
+CUST-00628,50,21,38303.19,4,5,5,455,Champions,0,Low-Value
+CUST-00629,31,7,14796.24,5,4,3,543,Champions,0,Low-Value
+CUST-00630,40,21,51792.84,4,5,5,455,Champions,1,Mid-Value
+CUST-00631,215,4,2146.63,2,3,1,231,Needs Attention,0,Low-Value
+CUST-00632,144,5,18797.46,2,3,4,234,Needs Attention,0,Low-Value
+CUST-00633,33,3,1749.38,5,2,1,521,New / Promising,0,Low-Value
+CUST-00634,411,2,2664.48,1,1,1,111,Hibernating / Lost,2,Dormant
+CUST-00637,530,2,8605.279999999999,1,2,3,123,Hibernating / Lost,2,Dormant
+CUST-00638,52,11,18555.94,4,5,4,454,Champions,0,Low-Value
+CUST-00639,136,1,743.9300000000001,3,1,1,311,Needs Attention,0,Low-Value
+CUST-00640,67,4,4805.4,3,3,2,332,Loyal Customers,0,Low-Value
+CUST-00641,24,45,103718.06,5,5,5,555,Champions,1,Mid-Value
+CUST-00643,64,8,18014.96,3,4,4,344,Loyal Customers,0,Low-Value
+CUST-00644,593,1,256.35,1,1,1,111,Hibernating / Lost,2,Dormant
+CUST-00645,55,13,24765.26,4,5,4,454,Champions,0,Low-Value
+CUST-00646,459,2,3165.8,1,2,1,121,Hibernating / Lost,2,Dormant
+CUST-00647,29,7,20577.91,5,4,4,544,Champions,0,Low-Value
+CUST-00648,35,11,23395.4,5,5,4,554,Champions,0,Low-Value
+CUST-00649,69,23,61290.72,3,5,5,355,Loyal Customers,1,Mid-Value
+CUST-00650,110,11,30105.95,3,5,5,355,Loyal Customers,0,Low-Value
+CUST-00651,102,5,4259.95,3,3,2,332,Loyal Customers,0,Low-Value
+CUST-00652,29,6,1246.2800000000002,5,4,1,541,Champions,0,Low-Value
+CUST-00653,49,4,4526.23,4,3,2,432,Loyal Customers,0,Low-Value
+CUST-00654,50,7,19903.44,4,4,4,444,Champions,0,Low-Value
+CUST-00656,74,24,39532.17,3,5,5,355,Loyal Customers,1,Mid-Value
+CUST-00657,59,8,17203.28,4,4,4,444,Champions,0,Low-Value
+CUST-00658,82,7,18841.99,3,4,4,344,Loyal Customers,0,Low-Value
+CUST-00659,254,2,8112.19,2,2,2,222,Hibernating / Lost,0,Low-Value
+CUST-00660,440,4,13955.899999999998,1,3,3,133,Needs Attention,2,Dormant
+CUST-00661,390,4,5869.93,1,3,2,132,Needs Attention,2,Dormant
+CUST-00662,55,6,22106.85,4,4,4,444,Champions,0,Low-Value
+CUST-00663,170,3,9232.52,2,2,3,223,Hibernating / Lost,0,Low-Value
+CUST-00664,269,2,5896.400000000001,2,2,2,222,Hibernating / Lost,0,Low-Value
+CUST-00665,19,205,467873.83,5,5,5,555,Champions,3,High-Value
+CUST-00666,26,5,6779.88,5,3,2,532,Loyal Customers,0,Low-Value
+CUST-00667,20,32,89909.52,5,5,5,555,Champions,1,Mid-Value
+CUST-00668,557,1,266.6,1,1,1,111,Hibernating / Lost,2,Dormant
+CUST-00669,30,16,42055.49,5,5,5,555,Champions,0,Low-Value
+CUST-00670,28,15,44293.5,5,5,5,555,Champions,0,Low-Value
+CUST-00671,103,3,13246.12,3,2,3,323,Needs Attention,0,Low-Value
+CUST-00672,158,8,27733.35,2,4,5,245,At Risk,0,Low-Value
+CUST-00673,54,15,24738.18,4,5,4,454,Champions,0,Low-Value
+CUST-00674,768,1,6887.98,1,1,2,112,Hibernating / Lost,2,Dormant
+CUST-00675,69,3,7214.639999999999,3,2,2,322,Needs Attention,0,Low-Value
+CUST-00676,251,5,8921.539999999999,2,3,3,233,Needs Attention,0,Low-Value
+CUST-00677,73,5,7266.93,3,3,2,332,Loyal Customers,0,Low-Value
+CUST-00678,36,12,15695.05,4,5,4,454,Champions,0,Low-Value
+CUST-00679,292,10,21549.94,2,4,4,244,At Risk,0,Low-Value
+CUST-00680,185,4,4264.32,2,3,2,232,Needs Attention,0,Low-Value
+CUST-00681,142,11,22674.31,3,5,4,354,Loyal Customers,0,Low-Value
+CUST-00682,184,2,140.37,2,2,1,221,Hibernating / Lost,0,Low-Value
+CUST-00683,62,4,13699.78,4,3,3,433,Loyal Customers,0,Low-Value
+CUST-00685,48,4,5679.06,4,3,2,432,Loyal Customers,0,Low-Value
+CUST-00686,566,3,3439.55,1,2,1,121,Hibernating / Lost,2,Dormant
+CUST-00687,149,4,13847.34,2,3,3,233,Needs Attention,0,Low-Value
+CUST-00688,19,7,10761.66,5,4,3,543,Champions,0,Low-Value
+CUST-00689,29,6,16683.87,5,4,4,544,Champions,0,Low-Value
+CUST-00690,187,5,20186.07,2,3,4,234,Needs Attention,0,Low-Value
+CUST-00692,374,3,9565.62,1,2,3,123,Hibernating / Lost,2,Dormant
+CUST-00693,344,5,12724.19,1,3,3,133,Needs Attention,2,Dormant
+CUST-00694,164,1,70.72,2,1,1,211,Hibernating / Lost,0,Low-Value
+CUST-00695,298,7,6406.75,2,4,2,242,At Risk,2,Dormant
+CUST-00696,42,7,16313.07,4,4,4,444,Champions,0,Low-Value
+CUST-00697,240,5,19876.74,2,3,4,234,Needs Attention,0,Low-Value
+CUST-00698,72,3,4805.11,3,2,2,322,Needs Attention,0,Low-Value
+CUST-00699,49,3,15214.0,4,2,4,424,New / Promising,0,Low-Value
+CUST-00700,28,13,32831.23,5,5,5,555,Champions,0,Low-Value
+CUST-00701,41,3,3848.61,4,2,2,422,New / Promising,0,Low-Value
+CUST-00702,405,3,3422.07,1,2,1,121,Hibernating / Lost,2,Dormant
+CUST-00703,145,2,2756.9,2,2,1,221,Hibernating / Lost,0,Low-Value
+CUST-00704,411,5,16640.66,1,3,4,134,Needs Attention,2,Dormant
+CUST-00705,78,5,7201.4400000000005,3,3,2,332,Loyal Customers,0,Low-Value
+CUST-00706,195,6,14238.66,2,4,3,243,At Risk,0,Low-Value
+CUST-00707,26,6,14267.79,5,4,3,543,Champions,0,Low-Value
+CUST-00708,147,8,17320.18,2,4,4,244,At Risk,0,Low-Value
+CUST-00709,55,6,9770.1,4,4,3,443,Champions,0,Low-Value
+CUST-00710,21,12,25561.210000000003,5,5,4,554,Champions,0,Low-Value
+CUST-00711,25,14,32887.85,5,5,5,555,Champions,0,Low-Value
+CUST-00712,386,4,11219.9,1,3,3,133,Needs Attention,2,Dormant
+CUST-00713,28,23,34407.99,5,5,5,555,Champions,0,Low-Value
+CUST-00714,234,1,1085.16,2,1,1,211,Hibernating / Lost,0,Low-Value
+CUST-00715,302,1,3583.83,2,1,1,211,Hibernating / Lost,2,Dormant
+CUST-00716,40,2,3526.67,4,2,1,421,New / Promising,0,Low-Value
+CUST-00717,68,5,12024.78,3,3,3,333,Loyal Customers,0,Low-Value
+CUST-00718,49,20,36007.42,4,5,5,455,Champions,0,Low-Value
+CUST-00719,237,5,6286.35,2,3,2,232,Needs Attention,0,Low-Value
+CUST-00720,107,14,30728.13,3,5,5,355,Loyal Customers,0,Low-Value
+CUST-00721,65,2,6491.8,3,2,2,322,Needs Attention,0,Low-Value
+CUST-00722,146,20,42929.75,2,5,5,255,At Risk,0,Low-Value
+CUST-00723,44,7,9810.52,4,4,3,443,Champions,0,Low-Value
+CUST-00724,272,3,5583.98,2,2,2,222,Hibernating / Lost,0,Low-Value
+CUST-00725,415,3,2195.41,1,2,1,121,Hibernating / Lost,2,Dormant
+CUST-00726,355,2,2598.4700000000003,1,2,1,121,Hibernating / Lost,2,Dormant
+CUST-00727,128,4,7977.95,3,3,2,332,Loyal Customers,0,Low-Value
+CUST-00728,32,3,4219.26,5,2,2,522,New / Promising,0,Low-Value
+CUST-00729,177,5,4954.54,2,3,2,232,Needs Attention,0,Low-Value
+CUST-00730,38,10,12249.9,4,4,3,443,Champions,0,Low-Value
+CUST-00731,52,3,6930.67,4,2,2,422,New / Promising,0,Low-Value
+CUST-00732,218,4,3888.51,2,3,2,232,Needs Attention,0,Low-Value
+CUST-00733,55,6,8831.369999999999,4,4,3,443,Champions,0,Low-Value
+CUST-00734,237,4,3728.96,2,3,1,231,Needs Attention,0,Low-Value
+CUST-00735,214,5,10822.28,2,3,3,233,Needs Attention,0,Low-Value
+CUST-00736,443,2,4821.47,1,2,2,122,Hibernating / Lost,2,Dormant
+CUST-00737,26,5,20004.78,5,3,4,534,Loyal Customers,0,Low-Value
+CUST-00738,81,7,24420.58,3,4,4,344,Loyal Customers,0,Low-Value
+CUST-00739,82,2,14514.94,3,2,3,323,Needs Attention,0,Low-Value
+CUST-00740,40,5,10888.5,4,3,3,433,Loyal Customers,0,Low-Value
+CUST-00741,43,9,14194.19,4,4,3,443,Champions,0,Low-Value
+CUST-00742,394,1,210.59,1,1,1,111,Hibernating / Lost,2,Dormant
+CUST-00743,33,6,20685.72,5,4,4,544,Champions,0,Low-Value
+CUST-00744,26,5,18174.34,5,3,4,534,Loyal Customers,0,Low-Value
+CUST-00745,29,35,89153.04,5,5,5,555,Champions,1,Mid-Value
+CUST-00746,43,4,5041.31,4,3,2,432,Loyal Customers,0,Low-Value
+CUST-00747,178,12,25385.65,2,5,4,254,At Risk,0,Low-Value
+CUST-00748,72,6,12543.3,3,4,3,343,Loyal Customers,0,Low-Value
+CUST-00749,616,2,1998.69,1,2,1,121,Hibernating / Lost,2,Dormant
+CUST-00750,52,7,11548.82,4,4,3,443,Champions,0,Low-Value
+CUST-00751,45,23,50415.57,4,5,5,455,Champions,1,Mid-Value
+CUST-00752,28,9,18865.66,5,4,4,544,Champions,0,Low-Value
+CUST-00753,38,7,17001.19,4,4,4,444,Champions,0,Low-Value
+CUST-00754,42,19,51027.09,4,5,5,455,Champions,1,Mid-Value
+CUST-00755,56,2,3326.75,4,2,1,421,New / Promising,0,Low-Value
+CUST-00756,65,2,1702.74,3,2,1,321,Needs Attention,0,Low-Value
+CUST-00757,24,5,12689.67,5,3,3,533,Loyal Customers,0,Low-Value
+CUST-00758,24,8,23047.76,5,4,4,544,Champions,0,Low-Value
+CUST-00759,27,7,7484.54,5,4,2,542,Champions,0,Low-Value
+CUST-00760,56,15,37107.67,4,5,5,455,Champions,0,Low-Value
+CUST-00761,376,3,6270.87,1,2,2,122,Hibernating / Lost,2,Dormant
+CUST-00762,84,1,683.85,3,1,1,311,Needs Attention,0,Low-Value
+CUST-00763,148,8,23420.33,2,4,4,244,At Risk,0,Low-Value
+CUST-00764,161,3,5477.54,2,2,2,222,Hibernating / Lost,0,Low-Value
+CUST-00765,29,14,39914.8,5,5,5,555,Champions,0,Low-Value
+CUST-00766,82,6,20821.03,3,4,4,344,Loyal Customers,0,Low-Value
+CUST-00767,7,9,23310.97,5,4,4,544,Champions,0,Low-Value
+CUST-00768,396,1,220.1,1,1,1,111,Hibernating / Lost,2,Dormant
+CUST-00769,181,3,9968.87,2,2,3,223,Hibernating / Lost,0,Low-Value
+CUST-00770,187,3,10217.63,2,2,3,223,Hibernating / Lost,0,Low-Value
+CUST-00771,239,8,17838.17,2,4,4,244,At Risk,0,Low-Value
+CUST-00773,431,2,751.4300000000001,1,2,1,121,Hibernating / Lost,2,Dormant
+CUST-00774,107,12,23663.76,3,5,4,354,Loyal Customers,0,Low-Value
+CUST-00775,284,1,211.5,2,1,1,211,Hibernating / Lost,2,Dormant
+CUST-00776,760,1,317.19,1,1,1,111,Hibernating / Lost,2,Dormant
+CUST-00777,62,4,6819.08,4,3,2,432,Loyal Customers,0,Low-Value
+CUST-00778,68,6,15190.7,3,4,4,344,Loyal Customers,0,Low-Value
+CUST-00779,148,7,17366.91,2,4,4,244,At Risk,0,Low-Value
+CUST-00780,327,7,12489.66,2,4,3,243,At Risk,2,Dormant
+CUST-00781,483,2,2284.4500000000003,1,2,1,121,Hibernating / Lost,2,Dormant
+CUST-00782,404,4,5447.92,1,3,2,132,Needs Attention,2,Dormant
+CUST-00783,102,5,8069.71,3,3,2,332,Loyal Customers,0,Low-Value
+CUST-00784,21,2,7201.51,5,2,2,522,New / Promising,0,Low-Value
+CUST-00785,23,39,88306.45999999999,5,5,5,555,Champions,1,Mid-Value
+CUST-00786,197,1,2260.92,2,1,1,211,Hibernating / Lost,0,Low-Value
+CUST-00787,62,5,13325.55,4,3,3,433,Loyal Customers,0,Low-Value
+CUST-00788,286,1,1403.21,2,1,1,211,Hibernating / Lost,2,Dormant
+CUST-00789,587,4,13778.15,1,3,3,133,Needs Attention,2,Dormant
+CUST-00790,158,4,10995.18,2,3,3,233,Needs Attention,0,Low-Value
+CUST-00791,402,5,11535.8,1,3,3,133,Needs Attention,2,Dormant
+CUST-00792,18,67,158297.56,5,5,5,555,Champions,1,Mid-Value
+CUST-00793,20,3,3196.4700000000003,5,2,1,521,New / Promising,0,Low-Value
+CUST-00794,332,1,265.38,1,1,1,111,Hibernating / Lost,2,Dormant
+CUST-00795,48,11,33043.33,4,5,5,455,Champions,0,Low-Value
+CUST-00796,503,4,12516.000000000002,1,3,3,133,Needs Attention,2,Dormant
+CUST-00797,173,5,10487.64,2,3,3,233,Needs Attention,0,Low-Value
+CUST-00798,33,3,7734.6,5,2,2,522,New / Promising,0,Low-Value
+CUST-00799,30,3,8510.57,5,2,3,523,New / Promising,0,Low-Value
+CUST-00800,158,13,34365.11,2,5,5,255,At Risk,0,Low-Value

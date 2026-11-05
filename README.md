@@ -32,19 +32,24 @@ ecommerce_project/
 ├── sql/
 │   ├── 01_schema.sql             # Table DDL, keys, indexes, and checks
 │   └── 02_analysis_queries.sql   # 14 business queries (YoY LAG, CTEs, window functions)
+├── notebooks/                    # Interactive portfolio presentation walkthrough
+│   └── ecommerce_analytics_walkthrough.ipynb
 ├── python/
+│   ├── build_database.py         # Relational database builder & CSV ingestion
 │   ├── generate_data.py          # Synthetic dataset generator
 │   ├── run_sql_analysis.py       # Automated runner for all 14 SQL business queries
 │   ├── 01_data_cleaning_eda.py   # Referential integrity validation & EDA charts
 │   ├── 02_customer_segmentation.py# RFM quintiles, K-Means clustering & cohort matrix
 │   ├── 03_revenue_forecasting.py # Trend + seasonal time-series forecast with CIs
-│   └── 04_market_basket_analysis.py# Multi-item basket association & cross-sell lift
+│   ├── 04_market_basket_analysis.py# Multi-item basket association & cross-sell lift
+│   └── build_powerbi_model.py    # Power BI star-schema ETL generator & dimension sync
 ├── tests/
 │   └── test_data_pipeline.py     # Automated data quality & integrity test suite
 ├── outputs/                      # 11 generated high-resolution analytical charts
 ├── powerbi/
 │   ├── data_model/               # Star-schema CSVs ready to import (dim_date, fact_sales...)
 │   └── POWERBI_GUIDE.md          # Relationships, cardinality, DAX measures & page designs
+├── run_pipeline.py               # Master end-to-end pipeline orchestrator
 ├── PROJECT_REPORT.md             # In-depth executive business report & methodology
 └── requirements.txt
 ```
@@ -92,23 +97,18 @@ python -m venv .venv
 source .venv/bin/activate       # On Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 
-# 2. Run automated test suite
-python -m unittest tests/test_data_pipeline.py
+# 2. Run the ENTIRE pipeline end-to-end with ONE command:
+python run_pipeline.py
 
-# 3. Execute all 14 SQL business queries
-python python/run_sql_analysis.py
+# (Optional) Re-generate raw synthetic data before running:
+# python run_pipeline.py --regenerate-data
 
-# 4. Run Python exploratory analysis & segmentation
-python python/01_data_cleaning_eda.py
-python python/02_customer_segmentation.py
+# 3. Interactive Walkthrough Notebook
+# Open notebooks/ecommerce_analytics_walkthrough.ipynb in VS Code or Jupyter
 
-# 5. Run revenue forecast & market basket analysis
-python python/03_revenue_forecasting.py
-python python/04_market_basket_analysis.py
-
-# 6. Power BI Layer
+# 4. Power BI Layer
 # Open Power BI Desktop → Get Data → Text/CSV → import files in powerbi/data_model/
-# Follow powerbi/POWERBI_GUIDE.md to wire relationships and add DAX measures
+# Follow powerbi/POWERBI_GUIDE.md for relationships and DAX measures
 ```
 
 ---

@@ -241,13 +241,16 @@ is the right deliverable.
 
 ```
 ecommerce_project/
-├── data/                     # Raw + derived data, SQLite DB
-├── sql/                      # Schema + analysis queries
-├── python/                   # Generation, EDA, segmentation scripts
-├── outputs/                  # Generated charts (PNG)
-├── powerbi/                  # Star-schema exports + DAX/build guide
-├── README.md                 # Setup & reproduction guide
-├── PROJECT_REPORT.md          # This document
+├── data/                         # Raw relational CSVs, derived tables & SQLite DB
+├── sql/                          # DDL table schemas & 14 business queries
+├── notebooks/                    # Interactive Jupyter portfolio walkthrough
+├── python/                       # Ingestion, EDA, ML, forecasting & Power BI ETL
+├── tests/                        # Automated data quality & integrity test suite
+├── outputs/                      # 11 high-resolution analytical charts
+├── powerbi/                      # Star-schema exports + DAX/build guide
+├── run_pipeline.py               # Master end-to-end pipeline orchestrator
+├── README.md                     # Setup, reproduction guide & visual gallery
+├── PROJECT_REPORT.md             # This document
 └── requirements.txt
 ```
 
