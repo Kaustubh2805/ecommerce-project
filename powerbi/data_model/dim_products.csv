@@ -1,0 +1,217 @@
+product_id,product_name,category,sub_category,unit_price,unit_cost
+PROD-00001,Standard Recliner,Furniture,Chairs,710.08,618.48
+PROD-00002,Standard Recliner,Furniture,Chairs,831.54,777.49
+PROD-00003,Compact Recliner,Furniture,Chairs,79.54,72.86
+PROD-00004,Executive Office Chair,Furniture,Chairs,645.93,556.79
+PROD-00005,Classic Mesh Chair,Furniture,Chairs,880.99,760.29
+PROD-00006,Executive Office Chair,Furniture,Chairs,412.25,352.89
+PROD-00007,Heavy-Duty Task Chair,Furniture,Chairs,610.79,529.55
+PROD-00008,Standard Office Chair,Furniture,Chairs,50.01,41.46
+PROD-00009,Eco Recliner,Furniture,Chairs,772.61,646.67
+PROD-00010,Deluxe Recliner,Furniture,Chairs,315.75,286.39
+PROD-00011,Pro Office Chair,Furniture,Chairs,475.96,417.89
+PROD-00012,Compact Recliner,Furniture,Chairs,742.71,698.15
+PROD-00013,Heavy-Duty Recliner,Furniture,Chairs,115.7,102.39
+PROD-00014,Executive Office Chair,Furniture,Chairs,883.38,753.52
+PROD-00015,Premium Office Chair,Furniture,Chairs,386.96,365.68
+PROD-00016,Eco Office Chair,Furniture,Chairs,750.28,635.49
+PROD-00017,Classic Task Chair,Furniture,Chairs,805.5,706.42
+PROD-00018,Heavy-Duty Task Chair,Furniture,Chairs,352.47,332.38
+PROD-00019,Basic Meeting Table,Furniture,Tables,325.5,276.68
+PROD-00020,Classic Meeting Table,Furniture,Tables,656.33,592.67
+PROD-00021,Heavy-Duty Conference Table,Furniture,Tables,123.8,106.96
+PROD-00022,Premium Side Table,Furniture,Tables,345.42,299.82
+PROD-00023,Pro Side Table,Furniture,Tables,643.8,607.75
+PROD-00024,Standard Meeting Table,Furniture,Tables,160.79,137.8
+PROD-00025,Compact Conference Table,Furniture,Tables,258.69,239.29
+PROD-00026,Deluxe Meeting Table,Furniture,Tables,225.41,190.02
+PROD-00027,Basic Side Table,Furniture,Tables,132.68,118.88
+PROD-00028,Classic Conference Table,Furniture,Tables,704.04,627.3
+PROD-00029,Classic Computer Desk,Furniture,Tables,868.92,824.61
+PROD-00030,Premium Meeting Table,Furniture,Tables,761.38,675.34
+PROD-00031,Eco Computer Desk,Furniture,Tables,634.96,588.61
+PROD-00032,Standard Conference Table,Furniture,Tables,373.17,325.4
+PROD-00033,Executive Meeting Table,Furniture,Tables,400.05,348.44
+PROD-00034,Basic Side Table,Furniture,Tables,382.17,345.86
+PROD-00035,Pro Meeting Table,Furniture,Tables,732.13,682.35
+PROD-00036,Classic Side Table,Furniture,Tables,765.04,672.47
+PROD-00037,Executive Storage Cabinet,Furniture,Bookcases,673.66,591.47
+PROD-00038,Basic Bookcase,Furniture,Bookcases,220.35,188.84
+PROD-00039,Executive Storage Cabinet,Furniture,Bookcases,154.1,132.22
+PROD-00040,Standard Storage Cabinet,Furniture,Bookcases,506.54,439.17
+PROD-00041,Deluxe Shelving Unit,Furniture,Bookcases,523.56,457.59
+PROD-00042,Compact Storage Cabinet,Furniture,Bookcases,683.17,574.55
+PROD-00043,Pro Shelving Unit,Furniture,Bookcases,735.14,648.39
+PROD-00044,Premium Shelving Unit,Furniture,Bookcases,164.98,142.38
+PROD-00045,Basic Shelving Unit,Furniture,Bookcases,685.16,636.51
+PROD-00046,Pro Storage Cabinet,Furniture,Bookcases,255.48,214.86
+PROD-00047,Pro Bookcase,Furniture,Bookcases,688.09,650.93
+PROD-00048,Heavy-Duty Bookcase,Furniture,Bookcases,569.85,491.21
+PROD-00049,Eco Bookcase,Furniture,Bookcases,678.47,595.02
+PROD-00050,Basic Storage Cabinet,Furniture,Bookcases,714.5,604.47
+PROD-00051,Pro Storage Cabinet,Furniture,Bookcases,611.46,507.51
+PROD-00052,Compact Shelving Unit,Furniture,Bookcases,862.76,710.05
+PROD-00053,Executive Storage Cabinet,Furniture,Bookcases,86.27,73.59
+PROD-00054,Basic Storage Cabinet,Furniture,Bookcases,787.21,659.68
+PROD-00055,Heavy-Duty Desk Lamp,Furniture,Furnishings,823.88,706.89
+PROD-00056,Executive Office Rug,Furniture,Furnishings,510.09,444.8
+PROD-00057,Basic Wall Clock,Furniture,Furnishings,425.98,350.16
+PROD-00058,Deluxe Desk Lamp,Furniture,Furnishings,867.73,741.04
+PROD-00059,Deluxe Wall Clock,Furniture,Furnishings,74.95,68.5
+PROD-00060,Pro Desk Lamp,Furniture,Furnishings,178.4,149.86
+PROD-00061,Premium Wall Clock,Furniture,Furnishings,441.04,365.18
+PROD-00062,Premium Desk Lamp,Furniture,Furnishings,838.62,731.28
+PROD-00063,Classic Office Rug,Furniture,Furnishings,298.99,253.24
+PROD-00064,Eco Wall Clock,Furniture,Furnishings,102.68,88.1
+PROD-00065,Eco Desk Lamp,Furniture,Furnishings,863.01,761.17
+PROD-00066,Eco Desk Lamp,Furniture,Furnishings,397.7,349.98
+PROD-00067,Deluxe Wall Clock,Furniture,Furnishings,230.23,212.27
+PROD-00068,Executive Wall Clock,Furniture,Furnishings,350.29,322.97
+PROD-00069,Classic Office Rug,Furniture,Furnishings,448.38,393.23
+PROD-00070,Premium Desk Lamp,Furniture,Furnishings,615.29,548.84
+PROD-00071,Classic Office Rug,Furniture,Furnishings,249.69,235.96
+PROD-00072,Executive Wall Clock,Furniture,Furnishings,827.7,684.51
+PROD-00073,Compact Ring Binder,Office Supplies,Binders,81.96,69.09
+PROD-00074,Eco Ring Binder,Office Supplies,Binders,78.12,62.34
+PROD-00075,Heavy-Duty Binder,Office Supplies,Binders,45.87,35.32
+PROD-00076,Executive View Binder,Office Supplies,Binders,14.19,12.5
+PROD-00077,Eco View Binder,Office Supplies,Binders,3.08,2.73
+PROD-00078,Basic View Binder,Office Supplies,Binders,64.78,56.94
+PROD-00079,Eco View Binder,Office Supplies,Binders,132.04,99.29
+PROD-00080,Compact View Binder,Office Supplies,Binders,122.88,108.87
+PROD-00081,Standard Binder,Office Supplies,Binders,69.97,58.35
+PROD-00082,Deluxe Copy Paper,Office Supplies,Paper,10.03,7.43
+PROD-00083,Eco Copy Paper,Office Supplies,Paper,87.09,74.37
+PROD-00084,Pro Notebook Paper,Office Supplies,Paper,59.43,46.0
+PROD-00085,Compact Notebook Paper,Office Supplies,Paper,4.5,3.44
+PROD-00086,Eco Copy Paper,Office Supplies,Paper,96.93,75.22
+PROD-00087,Classic Copy Paper,Office Supplies,Paper,105.73,93.57
+PROD-00088,Eco Copy Paper,Office Supplies,Paper,44.9,34.26
+PROD-00089,Classic Copy Paper,Office Supplies,Paper,43.66,31.22
+PROD-00090,Compact Notebook Paper,Office Supplies,Paper,123.67,110.56
+PROD-00091,Standard Filing Tray,Office Supplies,Storage,34.54,25.94
+PROD-00092,Eco File Cart,Office Supplies,Storage,144.1,125.51
+PROD-00093,Executive Storage Box,Office Supplies,Storage,83.92,66.21
+PROD-00094,Deluxe Storage Box,Office Supplies,Storage,2.74,2.14
+PROD-00095,Eco Filing Tray,Office Supplies,Storage,142.15,119.26
+PROD-00096,Executive Storage Box,Office Supplies,Storage,63.07,48.63
+PROD-00097,Eco Storage Box,Office Supplies,Storage,25.82,22.1
+PROD-00098,Pro Storage Box,Office Supplies,Storage,18.96,14.52
+PROD-00099,Classic Storage Box,Office Supplies,Storage,128.01,91.4
+PROD-00100,Eco Sketch Pad,Office Supplies,Art,97.41,86.21
+PROD-00101,Deluxe Sketch Pad,Office Supplies,Art,16.53,12.48
+PROD-00102,Heavy-Duty Sketch Pad,Office Supplies,Art,54.86,42.02
+PROD-00103,Basic Marker Set,Office Supplies,Art,44.2,39.16
+PROD-00104,Basic Sketch Pad,Office Supplies,Art,73.91,61.64
+PROD-00105,Pro Paint Set,Office Supplies,Art,88.46,69.62
+PROD-00106,Executive Sketch Pad,Office Supplies,Art,143.88,124.6
+PROD-00107,Executive Marker Set,Office Supplies,Art,118.28,89.66
+PROD-00108,Compact Sketch Pad,Office Supplies,Art,126.34,110.29
+PROD-00109,Executive Address Labels,Office Supplies,Labels,70.5,58.37
+PROD-00110,Pro Address Labels,Office Supplies,Labels,83.65,72.36
+PROD-00111,Classic Label Roll,Office Supplies,Labels,126.59,92.16
+PROD-00112,Standard Sticker Sheet,Office Supplies,Labels,31.07,23.4
+PROD-00113,Deluxe Sticker Sheet,Office Supplies,Labels,13.16,11.79
+PROD-00114,Eco Sticker Sheet,Office Supplies,Labels,6.62,5.19
+PROD-00115,Compact Sticker Sheet,Office Supplies,Labels,33.49,29.91
+PROD-00116,Pro Sticker Sheet,Office Supplies,Labels,134.31,106.37
+PROD-00117,Standard Address Labels,Office Supplies,Labels,60.09,43.38
+PROD-00118,Classic Binder Clips,Office Supplies,Fasteners,128.86,112.49
+PROD-00119,Eco Binder Clips,Office Supplies,Fasteners,15.4,12.74
+PROD-00120,Premium Binder Clips,Office Supplies,Fasteners,37.35,26.41
+PROD-00121,Classic Binder Clips,Office Supplies,Fasteners,26.54,21.15
+PROD-00122,Heavy-Duty Stapler,Office Supplies,Fasteners,28.51,20.24
+PROD-00123,Standard Binder Clips,Office Supplies,Fasteners,110.34,78.56
+PROD-00124,Premium Stapler,Office Supplies,Fasteners,114.7,97.95
+PROD-00125,Pro Paper Clips,Office Supplies,Fasteners,36.63,28.06
+PROD-00126,Eco Paper Clips,Office Supplies,Fasteners,59.44,42.56
+PROD-00127,Premium Envelope Pack,Office Supplies,Envelopes,147.13,122.85
+PROD-00128,Eco Mailer Box,Office Supplies,Envelopes,125.56,106.35
+PROD-00129,Eco Envelope Pack,Office Supplies,Envelopes,57.75,47.59
+PROD-00130,Classic Envelope Pack,Office Supplies,Envelopes,78.47,64.74
+PROD-00131,Basic Mailer Box,Office Supplies,Envelopes,54.23,39.37
+PROD-00132,Heavy-Duty Mailer Box,Office Supplies,Envelopes,133.3,119.84
+PROD-00133,Standard Mailer Box,Office Supplies,Envelopes,26.51,23.46
+PROD-00134,Pro Envelope Pack,Office Supplies,Envelopes,24.24,21.06
+PROD-00135,Classic Envelope Pack,Office Supplies,Envelopes,99.84,81.57
+PROD-00136,Executive Desk Organizer,Office Supplies,Supplies,18.77,14.36
+PROD-00137,Heavy-Duty Scissors,Office Supplies,Supplies,89.44,68.96
+PROD-00138,Compact Scissors,Office Supplies,Supplies,38.06,33.26
+PROD-00139,Classic Scissors,Office Supplies,Supplies,21.94,17.49
+PROD-00140,Classic Scissors,Office Supplies,Supplies,10.27,8.71
+PROD-00141,Standard Desk Organizer,Office Supplies,Supplies,143.82,112.18
+PROD-00142,Classic Desk Organizer,Office Supplies,Supplies,4.76,3.6
+PROD-00143,Pro Scissors,Office Supplies,Supplies,34.06,26.53
+PROD-00144,Heavy-Duty Tape Dispenser,Office Supplies,Supplies,27.24,19.99
+PROD-00145,Classic Smartphone,Technology,Phones,1754.32,1370.12
+PROD-00146,Standard Phone Case,Technology,Phones,1461.44,1278.76
+PROD-00147,Executive Cordless Phone,Technology,Phones,1324.48,1202.63
+PROD-00148,Compact Cordless Phone,Technology,Phones,316.9,290.6
+PROD-00149,Eco Phone Case,Technology,Phones,1515.08,1180.25
+PROD-00150,Classic Smartphone,Technology,Phones,415.01,318.31
+PROD-00151,Classic Smartphone,Technology,Phones,1934.72,1605.82
+PROD-00152,Deluxe Smartphone,Technology,Phones,1076.46,966.66
+PROD-00153,Classic Phone Case,Technology,Phones,1825.72,1402.15
+PROD-00154,Compact Phone Case,Technology,Phones,942.88,726.96
+PROD-00155,Eco Cordless Phone,Technology,Phones,527.99,413.94
+PROD-00156,Compact Cordless Phone,Technology,Phones,1308.23,1038.73
+PROD-00157,Classic Smartphone,Technology,Phones,953.31,836.05
+PROD-00158,Basic Smartphone,Technology,Phones,644.69,497.06
+PROD-00159,Compact Cordless Phone,Technology,Phones,440.18,351.7
+PROD-00160,Premium Phone Case,Technology,Phones,1163.91,968.37
+PROD-00161,Compact Phone Case,Technology,Phones,475.76,372.52
+PROD-00162,Compact Cordless Phone,Technology,Phones,261.29,221.57
+PROD-00163,Classic Laminator,Technology,Machines,597.03,494.94
+PROD-00164,Classic Laminator,Technology,Machines,1357.78,1019.69
+PROD-00165,Compact Label Maker,Technology,Machines,926.71,729.32
+PROD-00166,Heavy-Duty Label Maker,Technology,Machines,833.36,688.36
+PROD-00167,Pro Laminator,Technology,Machines,1283.5,1011.4
+PROD-00168,Compact Calculator,Technology,Machines,329.61,254.79
+PROD-00169,Deluxe Calculator,Technology,Machines,528.6,416.01
+PROD-00170,Standard Label Maker,Technology,Machines,495.37,422.06
+PROD-00171,Executive Calculator,Technology,Machines,1362.44,1095.4
+PROD-00172,Premium Label Maker,Technology,Machines,874.35,709.97
+PROD-00173,Deluxe Label Maker,Technology,Machines,1053.52,861.78
+PROD-00174,Deluxe Label Maker,Technology,Machines,600.91,514.98
+PROD-00175,Classic Label Maker,Technology,Machines,1602.15,1220.84
+PROD-00176,Compact Calculator,Technology,Machines,1453.9,1266.35
+PROD-00177,Classic Label Maker,Technology,Machines,2082.2,1626.2
+PROD-00178,Heavy-Duty Laminator,Technology,Machines,53.24,41.26
+PROD-00179,Eco Laminator,Technology,Machines,452.6,356.2
+PROD-00180,Eco Calculator,Technology,Machines,1545.64,1259.7
+PROD-00181,Premium Wireless Mouse,Technology,Accessories,549.19,505.25
+PROD-00182,Standard USB Hub,Technology,Accessories,2193.09,1725.96
+PROD-00183,Executive Keyboard,Technology,Accessories,909.83,806.11
+PROD-00184,Premium USB Hub,Technology,Accessories,2024.62,1674.36
+PROD-00185,Eco Wireless Mouse,Technology,Accessories,784.02,612.32
+PROD-00186,Basic Laptop Stand,Technology,Accessories,1016.83,865.32
+PROD-00187,Premium Wireless Mouse,Technology,Accessories,409.83,341.8
+PROD-00188,Eco USB Hub,Technology,Accessories,1121.88,967.06
+PROD-00189,Deluxe Wireless Mouse,Technology,Accessories,1931.17,1510.17
+PROD-00190,Classic Wireless Mouse,Technology,Accessories,1536.4,1161.52
+PROD-00191,Classic Keyboard,Technology,Accessories,1700.83,1345.36
+PROD-00192,Heavy-Duty Keyboard,Technology,Accessories,1975.46,1527.03
+PROD-00193,Heavy-Duty USB Hub,Technology,Accessories,589.47,504.0
+PROD-00194,Basic Laptop Stand,Technology,Accessories,1766.35,1501.4
+PROD-00195,Executive USB Hub,Technology,Accessories,1550.78,1356.93
+PROD-00196,Pro USB Hub,Technology,Accessories,895.68,710.27
+PROD-00197,Executive USB Hub,Technology,Accessories,1233.38,1097.71
+PROD-00198,Executive Wireless Mouse,Technology,Accessories,504.29,414.53
+PROD-00199,Standard Desktop Copier,Technology,Copiers,1112.83,985.97
+PROD-00200,Basic All-in-One Printer,Technology,Copiers,478.71,424.14
+PROD-00201,Basic All-in-One Printer,Technology,Copiers,368.51,332.4
+PROD-00202,Deluxe All-in-One Printer,Technology,Copiers,1362.0,1075.98
+PROD-00203,Eco Desktop Copier,Technology,Copiers,1870.18,1602.74
+PROD-00204,Executive All-in-One Printer,Technology,Copiers,1978.92,1523.77
+PROD-00205,Classic All-in-One Printer,Technology,Copiers,1095.05,824.57
+PROD-00206,Eco All-in-One Printer,Technology,Copiers,893.4,707.57
+PROD-00207,Standard Desktop Copier,Technology,Copiers,1170.85,992.88
+PROD-00208,Eco Desktop Copier,Technology,Copiers,1120.37,955.68
+PROD-00209,Standard All-in-One Printer,Technology,Copiers,2149.02,1721.37
+PROD-00210,Heavy-Duty All-in-One Printer,Technology,Copiers,1525.59,1400.49
+PROD-00211,Basic All-in-One Printer,Technology,Copiers,1290.79,1116.53
+PROD-00212,Classic All-in-One Printer,Technology,Copiers,436.12,381.61
+PROD-00213,Pro All-in-One Printer,Technology,Copiers,2110.0,1818.82
+PROD-00214,Standard All-in-One Printer,Technology,Copiers,949.96,806.52
+PROD-00215,Executive All-in-One Printer,Technology,Copiers,1883.89,1642.75
+PROD-00216,Standard Desktop Copier,Technology,Copiers,2155.02,1730.48
